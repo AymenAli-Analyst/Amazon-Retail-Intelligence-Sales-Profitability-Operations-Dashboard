@@ -116,7 +116,7 @@ Top revenue-generating categories:
 
 ### Operational Analytics Dashboard
 
-![Operational Dashboard](OperationalDashboard.png)
+![Operational Dashboard](https://github.com/AymenAli-Analyst/Amazon-Retail-Intelligence-Sales-Profitability-Operations-Dashboard/blob/main/AMAZON2%20.png?raw=true)
 
 ---
 
