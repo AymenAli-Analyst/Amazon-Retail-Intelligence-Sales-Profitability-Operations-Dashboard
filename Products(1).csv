@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Cost_Price,Selling_Price,Supplier,Launch_Date
+P001,Product 1,Home Appliances,SubCat 3,Brand 30,75.52,122.59,Supplier 17,5/25/2022 0:00
+P002,Product 2,Home Appliances,SubCat 9,Brand 28,348.12,489.56,Supplier 14,8/30/2025 0:00
+P003,Product 3,Grocery,SubCat 8,Brand 29,497.7,864.4,Supplier 14,7/31/2021 0:00
+P004,Product 4,Home Appliances,SubCat 1,Brand 24,50.55,78.18,Supplier 7,1/21/2024 0:00
+P005,Product 5,Fashion,SubCat 3,Brand 2,214.33,382.4,Supplier 10,7/23/2025 0:00
+P006,Product 6,Beauty,SubCat 9,Brand 11,290.59,486.03,Supplier 10,4/8/2023 0:00
+P007,Product 7,Grocery,SubCat 8,Brand 15,319.89,454.79,Supplier 8,5/5/2024 0:00
+P008,Product 8,Electronics,SubCat 6,Brand 10,517.39,758.55,Supplier 9,1/7/2022 0:00
+P009,Product 9,Sports,SubCat 10,Brand 4,49.25,80.35,Supplier 3,5/29/2025 0:00
+P010,Product 10,Home Appliances,SubCat 7,Brand 27,254.68,414.07,Supplier 17,11/26/2020 0:00
+P011,Product 11,Fashion,SubCat 1,Brand 18,417.95,586.48,Supplier 16,10/28/2020 0:00
+P012,Product 12,Books,SubCat 3,Brand 1,519.62,598.36,Supplier 3,9/20/2021 0:00
+P013,Product 13,Books,SubCat 8,Brand 12,593.26,675.21,Supplier 14,2/5/2024 0:00
+P014,Product 14,Home Appliances,SubCat 1,Brand 4,590,1061.45,Supplier 4,9/2/2023 0:00
+P015,Product 15,Home Appliances,SubCat 10,Brand 30,41.66,46.29,Supplier 11,4/14/2022 0:00
+P016,Product 16,Fashion,SubCat 7,Brand 5,179.52,227.24,Supplier 18,12/2/2021 0:00
+P017,Product 17,Books,SubCat 1,Brand 4,19.92,25.86,Supplier 9,11/14/2023 0:00
+P018,Product 18,Sports,SubCat 1,Brand 4,912.55,1288.51,Supplier 13,6/11/2022 0:00
+P019,Product 19,Beauty,SubCat 5,Brand 11,673.27,1141.88,Supplier 7,5/3/2022 0:00
+P020,Product 20,Books,SubCat 5,Brand 11,929.04,1198.37,Supplier 5,10/18/2023 0:00
+P021,Product 21,Beauty,SubCat 5,Brand 14,678.53,861.36,Supplier 12,2/5/2024 0:00
+P022,Product 22,Fashion,SubCat 8,Brand 27,510.6,564.22,Supplier 15,12/6/2022 0:00
+P023,Product 23,Books,SubCat 5,Brand 6,11.36,14.17,Supplier 6,3/20/2024 0:00
+P024,Product 24,Home Appliances,SubCat 1,Brand 23,925.86,1639.25,Supplier 20,9/5/2020 0:00
+P025,Product 25,Books,SubCat 3,Brand 16,952.01,1139.29,Supplier 6,11/1/2025 0:00
+P026,Product 26,Home Appliances,SubCat 8,Brand 10,270.51,405.07,Supplier 10,2/3/2020 0:00
+P027,Product 27,Books,SubCat 10,Brand 16,919.75,1388.87,Supplier 11,3/30/2023 0:00
+P028,Product 28,Beauty,SubCat 5,Brand 21,980.61,1257.72,Supplier 10,12/3/2021 0:00
+P029,Product 29,Electronics,SubCat 4,Brand 5,714.66,977.52,Supplier 18,10/9/2024 0:00
+P030,Product 30,Home Appliances,SubCat 1,Brand 27,177.8,225.41,Supplier 4,11/28/2022 0:00
+P031,Product 31,Books,SubCat 5,Brand 28,179.72,245.6,Supplier 4,1/8/2022 0:00
+P032,Product 32,Grocery,SubCat 10,Brand 1,347.32,551.92,Supplier 16,2/5/2023 0:00
+P033,Product 33,Home Appliances,SubCat 10,Brand 11,646.76,899.82,Supplier 17,7/21/2021 0:00
+P034,Product 34,Home Appliances,SubCat 9,Brand 12,913.01,1141.22,Supplier 11,6/29/2025 0:00
+P035,Product 35,Fashion,SubCat 5,Brand 19,712.75,972.75,Supplier 17,9/11/2023 0:00
+P036,Product 36,Books,SubCat 9,Brand 6,167.95,185.31,Supplier 12,8/14/2025 0:00
+P037,Product 37,Beauty,SubCat 10,Brand 6,679.74,1203.49,Supplier 1,4/14/2020 0:00
+P038,Product 38,Grocery,SubCat 4,Brand 13,505.18,637.75,Supplier 7,8/3/2021 0:00
+P039,Product 39,Grocery,SubCat 7,Brand 2,147.9,205.55,Supplier 4,10/27/2020 0:00
+P040,Product 40,Sports,SubCat 4,Brand 6,43.01,59.18,Supplier 1,12/9/2024 0:00
+P041,Product 41,Beauty,SubCat 5,Brand 17,874.99,1252.44,Supplier 1,9/1/2022 0:00
+P042,Product 42,Home Appliances,SubCat 1,Brand 10,263.96,468.11,Supplier 13,10/12/2025 0:00
+P043,Product 43,Electronics,SubCat 6,Brand 20,255.2,352.67,Supplier 13,9/25/2025 0:00
+P044,Product 44,Books,SubCat 1,Brand 11,149.9,227.72,Supplier 5,8/6/2024 0:00
+P045,Product 45,Books,SubCat 3,Brand 26,251.35,346.51,Supplier 12,6/22/2022 0:00
+P046,Product 46,Books,SubCat 10,Brand 4,82.85,143.44,Supplier 5,3/19/2020 0:00
+P047,Product 47,Sports,SubCat 10,Brand 11,33.92,40.93,Supplier 4,5/4/2021 0:00
+P048,Product 48,Fashion,SubCat 6,Brand 6,932.67,1488.79,Supplier 10,7/13/2023 0:00
+P049,Product 49,Electronics,SubCat 10,Brand 25,678.43,1164.12,Supplier 18,9/22/2024 0:00
+P050,Product 50,Grocery,SubCat 5,Brand 23,861.63,1530.04,Supplier 17,7/14/2021 0:00
+P051,Product 51,Fashion,SubCat 2,Brand 8,590.95,790.48,Supplier 7,12/14/2024 0:00
+P052,Product 52,Fashion,SubCat 4,Brand 24,408.63,650.95,Supplier 3,3/20/2025 0:00
+P053,Product 53,Home Appliances,SubCat 8,Brand 3,900.31,1124.3,Supplier 13,12/19/2020 0:00
+P054,Product 54,Electronics,SubCat 10,Brand 10,823.09,923.68,Supplier 16,10/16/2020 0:00
+P055,Product 55,Electronics,SubCat 4,Brand 17,399.98,508.4,Supplier 6,3/28/2022 0:00
+P056,Product 56,Grocery,SubCat 3,Brand 23,504.85,740.51,Supplier 6,3/3/2021 0:00
+P057,Product 57,Books,SubCat 2,Brand 7,565.44,745.14,Supplier 3,6/21/2021 0:00
+P058,Product 58,Fashion,SubCat 3,Brand 4,744.3,1005.05,Supplier 15,7/21/2024 0:00
+P059,Product 59,Electronics,SubCat 7,Brand 5,182.15,212.03,Supplier 10,2/2/2022 0:00
+P060,Product 60,Home Appliances,SubCat 2,Brand 4,56.81,92.38,Supplier 7,2/5/2022 0:00
+P061,Product 61,Electronics,SubCat 7,Brand 25,299.73,496.34,Supplier 4,8/13/2024 0:00
+P062,Product 62,Sports,SubCat 6,Brand 13,579.06,986.5,Supplier 3,2/14/2025 0:00
+P063,Product 63,Books,SubCat 7,Brand 23,697.16,940.68,Supplier 3,8/17/2025 0:00
+P064,Product 64,Fashion,SubCat 2,Brand 8,33.23,44.27,Supplier 14,12/6/2023 0:00
+P065,Product 65,Books,SubCat 9,Brand 1,63.51,98.46,Supplier 19,5/4/2020 0:00
+P066,Product 66,Books,SubCat 7,Brand 14,851.61,1095.46,Supplier 18,7/18/2024 0:00
+P067,Product 67,Grocery,SubCat 7,Brand 4,473.05,807.57,Supplier 16,4/9/2024 0:00
+P068,Product 68,Fashion,SubCat 2,Brand 15,555.38,888.78,Supplier 20,12/31/2023 0:00
+P069,Product 69,Fashion,SubCat 8,Brand 19,273.79,370.97,Supplier 10,5/21/2023 0:00
+P070,Product 70,Books,SubCat 9,Brand 25,344.93,590.77,Supplier 17,8/19/2024 0:00
+P071,Product 71,Fashion,SubCat 1,Brand 27,290.63,460.62,Supplier 12,5/11/2020 0:00
+P072,Product 72,Home Appliances,SubCat 6,Brand 24,571.2,981.42,Supplier 20,2/29/2020 0:00
+P073,Product 73,Home Appliances,SubCat 2,Brand 12,229.05,309.85,Supplier 4,8/8/2023 0:00
+P074,Product 74,Sports,SubCat 4,Brand 12,81.07,145.25,Supplier 3,8/28/2020 0:00
+P075,Product 75,Sports,SubCat 6,Brand 2,24.33,30.36,Supplier 19,10/11/2020 0:00
+P076,Product 76,Fashion,SubCat 3,Brand 28,832.69,1135.06,Supplier 19,5/31/2021 0:00
+P077,Product 77,Fashion,SubCat 9,Brand 21,550.99,621.1,Supplier 14,8/23/2021 0:00
+P078,Product 78,Books,SubCat 10,Brand 16,767,1355.92,Supplier 12,12/2/2024 0:00
+P079,Product 79,Fashion,SubCat 6,Brand 12,285.19,439.75,Supplier 10,6/20/2020 0:00
+P080,Product 80,Fashion,SubCat 5,Brand 18,172.81,304.58,Supplier 14,3/2/2025 0:00
+P081,Product 81,Grocery,SubCat 7,Brand 15,946.4,1438.31,Supplier 19,1/23/2024 0:00
+P082,Product 82,Home Appliances,SubCat 1,Brand 18,560.02,922.2,Supplier 4,11/22/2020 0:00
+P083,Product 83,Sports,SubCat 4,Brand 22,745.92,1205.92,Supplier 13,1/22/2025 0:00
+P084,Product 84,Fashion,SubCat 9,Brand 28,704.93,1080.48,Supplier 16,6/17/2022 0:00
+P085,Product 85,Grocery,SubCat 8,Brand 22,333.68,572.45,Supplier 4,5/7/2024 0:00
+P086,Product 86,Fashion,SubCat 4,Brand 21,451.79,550.78,Supplier 8,10/29/2022 0:00
+P087,Product 87,Grocery,SubCat 1,Brand 9,686.15,867.44,Supplier 15,2/5/2020 0:00
+P088,Product 88,Electronics,SubCat 9,Brand 25,896.57,1146.83,Supplier 15,12/26/2025 0:00
+P089,Product 89,Fashion,SubCat 4,Brand 2,509.66,904.73,Supplier 12,1/8/2022 0:00
+P090,Product 90,Fashion,SubCat 7,Brand 24,116.99,140.73,Supplier 4,1/29/2021 0:00
+P091,Product 91,Fashion,SubCat 8,Brand 11,892.13,1492.77,Supplier 12,3/2/2023 0:00
+P092,Product 92,Sports,SubCat 6,Brand 30,540.96,897.84,Supplier 1,12/6/2022 0:00
+P093,Product 93,Home Appliances,SubCat 3,Brand 20,180.14,304.76,Supplier 5,11/15/2024 0:00
+P094,Product 94,Home Appliances,SubCat 7,Brand 25,324.51,493.59,Supplier 9,7/9/2022 0:00
+P095,Product 95,Fashion,SubCat 7,Brand 14,660.85,1108.45,Supplier 1,5/18/2024 0:00
+P096,Product 96,Beauty,SubCat 6,Brand 26,687.5,791.36,Supplier 13,11/20/2023 0:00
+P097,Product 97,Grocery,SubCat 1,Brand 10,773.92,1005.49,Supplier 5,7/4/2024 0:00
+P098,Product 98,Books,SubCat 9,Brand 23,435.55,638.21,Supplier 12,9/28/2021 0:00
+P099,Product 99,Home Appliances,SubCat 9,Brand 3,790.37,1246.4,Supplier 4,1/29/2025 0:00
+P100,Product 100,Sports,SubCat 2,Brand 29,494.91,750.01,Supplier 3,4/12/2022 0:00
+P101,Product 101,Beauty,SubCat 1,Brand 5,334.63,505.12,Supplier 20,11/13/2024 0:00
+P102,Product 102,Sports,SubCat 10,Brand 23,96.13,146.17,Supplier 15,5/5/2020 0:00
+P103,Product 103,Fashion,SubCat 2,Brand 4,39.72,70.57,Supplier 17,7/27/2022 0:00
+P104,Product 104,Home Appliances,SubCat 3,Brand 13,245.31,294.68,Supplier 4,11/24/2021 0:00
+P105,Product 105,Electronics,SubCat 3,Brand 11,91.06,106.92,Supplier 17,6/2/2024 0:00
+P106,Product 106,Home Appliances,SubCat 3,Brand 1,294.77,404.46,Supplier 19,8/28/2022 0:00
+P107,Product 107,Electronics,SubCat 9,Brand 6,258.57,383.61,Supplier 1,3/14/2025 0:00
+P108,Product 108,Books,SubCat 5,Brand 1,717.1,917.44,Supplier 8,4/7/2020 0:00
+P109,Product 109,Beauty,SubCat 5,Brand 20,821.3,949.34,Supplier 5,2/17/2025 0:00
+P110,Product 110,Home Appliances,SubCat 9,Brand 16,777.04,1168.59,Supplier 3,6/12/2025 0:00
+P111,Product 111,Electronics,SubCat 6,Brand 14,297.67,452.74,Supplier 10,5/27/2025 0:00
+P112,Product 112,Fashion,SubCat 4,Brand 27,668.7,900.91,Supplier 11,4/21/2021 0:00
+P113,Product 113,Books,SubCat 2,Brand 30,443.28,579.56,Supplier 7,12/17/2021 0:00
+P114,Product 114,Sports,SubCat 8,Brand 21,459.78,507.94,Supplier 17,2/21/2021 0:00
+P115,Product 115,Sports,SubCat 9,Brand 17,559.54,952.97,Supplier 18,6/20/2025 0:00
+P116,Product 116,Electronics,SubCat 3,Brand 21,704.61,986.5,Supplier 4,12/29/2023 0:00
+P117,Product 117,Books,SubCat 10,Brand 25,463.9,613.27,Supplier 4,12/26/2022 0:00
+P118,Product 118,Electronics,SubCat 8,Brand 22,48.87,58.34,Supplier 13,4/6/2025 0:00
+P119,Product 119,Grocery,SubCat 5,Brand 12,424.99,627.95,Supplier 20,2/21/2021 0:00
+P120,Product 120,Sports,SubCat 3,Brand 28,785.03,1388.3,Supplier 3,5/21/2024 0:00
+P121,Product 121,Home Appliances,SubCat 9,Brand 24,104.93,152.45,Supplier 5,4/26/2021 0:00
+P122,Product 122,Books,SubCat 6,Brand 5,110.06,188.83,Supplier 17,4/21/2024 0:00
+P123,Product 123,Books,SubCat 2,Brand 6,862.03,1344.3,Supplier 9,7/20/2022 0:00
+P124,Product 124,Home Appliances,SubCat 3,Brand 16,158.27,266.59,Supplier 2,6/7/2021 0:00
+P125,Product 125,Fashion,SubCat 10,Brand 15,661.36,735.52,Supplier 6,8/15/2023 0:00
+P126,Product 126,Home Appliances,SubCat 8,Brand 18,291.04,407.24,Supplier 6,6/8/2021 0:00
+P127,Product 127,Electronics,SubCat 3,Brand 6,599.42,885.24,Supplier 13,11/24/2025 0:00
+P128,Product 128,Sports,SubCat 3,Brand 8,481.21,854.76,Supplier 14,10/25/2025 0:00
+P129,Product 129,Home Appliances,SubCat 4,Brand 10,839.53,1233.69,Supplier 7,8/15/2022 0:00
+P130,Product 130,Books,SubCat 8,Brand 15,730.41,867.65,Supplier 20,1/5/2025 0:00
+P131,Product 131,Home Appliances,SubCat 4,Brand 8,100.49,125.56,Supplier 20,12/2/2020 0:00
+P132,Product 132,Books,SubCat 2,Brand 23,377.54,452.39,Supplier 3,8/30/2024 0:00
+P133,Product 133,Books,SubCat 3,Brand 11,842.1,975.59,Supplier 18,4/22/2021 0:00
+P134,Product 134,Grocery,SubCat 9,Brand 8,943.25,1616.15,Supplier 15,5/25/2024 0:00
+P135,Product 135,Beauty,SubCat 6,Brand 11,481.1,644.39,Supplier 1,11/11/2021 0:00
+P136,Product 136,Beauty,SubCat 9,Brand 21,974.42,1400.28,Supplier 2,10/6/2025 0:00
+P137,Product 137,Home Appliances,SubCat 4,Brand 11,93.76,146.83,Supplier 17,10/7/2023 0:00
+P138,Product 138,Books,SubCat 10,Brand 15,268.08,445.12,Supplier 9,5/17/2021 0:00
+P139,Product 139,Electronics,SubCat 5,Brand 30,74.2,111.63,Supplier 18,5/12/2025 0:00
+P140,Product 140,Sports,SubCat 6,Brand 4,483.95,766.53,Supplier 12,12/22/2022 0:00
+P141,Product 141,Beauty,SubCat 4,Brand 24,287.92,486.19,Supplier 19,5/23/2024 0:00
+P142,Product 142,Beauty,SubCat 4,Brand 28,580.63,680.32,Supplier 13,5/4/2022 0:00
+P143,Product 143,Books,SubCat 2,Brand 10,817.82,1021.88,Supplier 4,2/18/2023 0:00
+P144,Product 144,Electronics,SubCat 5,Brand 23,516.97,692.41,Supplier 11,3/29/2025 0:00
+P145,Product 145,Sports,SubCat 4,Brand 19,901.28,1084.83,Supplier 7,4/13/2020 0:00
+P146,Product 146,Sports,SubCat 2,Brand 14,905.93,1603.19,Supplier 12,9/30/2022 0:00
+P147,Product 147,Books,SubCat 5,Brand 9,817.61,1377.54,Supplier 16,6/13/2020 0:00
+P148,Product 148,Home Appliances,SubCat 9,Brand 7,141.82,206.49,Supplier 7,1/12/2025 0:00
+P149,Product 149,Books,SubCat 9,Brand 5,914.68,1200.82,Supplier 4,12/12/2021 0:00
+P150,Product 150,Books,SubCat 2,Brand 4,668.88,1170.41,Supplier 5,12/26/2025 0:00
+P151,Product 151,Fashion,SubCat 3,Brand 28,749.91,1336.16,Supplier 4,3/20/2020 0:00
+P152,Product 152,Books,SubCat 7,Brand 29,484.2,778.18,Supplier 17,2/9/2022 0:00
+P153,Product 153,Beauty,SubCat 9,Brand 30,617.43,973.39,Supplier 6,12/26/2025 0:00
+P154,Product 154,Home Appliances,SubCat 1,Brand 25,419.7,500.65,Supplier 4,10/29/2021 0:00
+P155,Product 155,Books,SubCat 3,Brand 2,289.39,467.22,Supplier 19,10/5/2025 0:00
+P156,Product 156,Fashion,SubCat 6,Brand 28,764.6,1006.03,Supplier 8,10/31/2023 0:00
+P157,Product 157,Electronics,SubCat 7,Brand 12,793.92,1393.72,Supplier 16,12/22/2023 0:00
+P158,Product 158,Beauty,SubCat 2,Brand 20,436.4,512.73,Supplier 9,7/17/2023 0:00
+P159,Product 159,Electronics,SubCat 2,Brand 21,323.94,556.36,Supplier 19,11/2/2021 0:00
+P160,Product 160,Beauty,SubCat 10,Brand 30,634.2,1094.24,Supplier 3,8/2/2024 0:00
+P161,Product 161,Sports,SubCat 10,Brand 30,448.13,794.66,Supplier 12,5/18/2025 0:00
+P162,Product 162,Sports,SubCat 8,Brand 27,211.53,259.83,Supplier 12,5/29/2023 0:00
+P163,Product 163,Sports,SubCat 1,Brand 24,388.76,480.45,Supplier 9,1/13/2022 0:00
+P164,Product 164,Grocery,SubCat 5,Brand 5,418.73,651.24,Supplier 7,8/30/2022 0:00
+P165,Product 165,Sports,SubCat 3,Brand 10,479.15,556.45,Supplier 4,12/17/2024 0:00
+P166,Product 166,Books,SubCat 10,Brand 19,233.56,394.47,Supplier 8,9/16/2023 0:00
+P167,Product 167,Electronics,SubCat 9,Brand 3,60.55,77.84,Supplier 3,10/1/2021 0:00
+P168,Product 168,Grocery,SubCat 4,Brand 21,677.47,1126.75,Supplier 17,10/30/2020 0:00
+P169,Product 169,Sports,SubCat 3,Brand 16,260.56,387.2,Supplier 10,4/7/2025 0:00
+P170,Product 170,Sports,SubCat 1,Brand 18,937.74,1482.05,Supplier 8,5/29/2022 0:00
+P171,Product 171,Home Appliances,SubCat 1,Brand 3,115.6,161.68,Supplier 19,8/22/2022 0:00
+P172,Product 172,Beauty,SubCat 2,Brand 16,713.21,1093.93,Supplier 7,12/26/2022 0:00
+P173,Product 173,Grocery,SubCat 10,Brand 22,219.33,323.82,Supplier 14,4/7/2022 0:00
+P174,Product 174,Home Appliances,SubCat 4,Brand 20,951.61,1402.99,Supplier 12,10/9/2024 0:00
+P175,Product 175,Beauty,SubCat 6,Brand 4,613.7,701.6,Supplier 3,10/2/2023 0:00
+P176,Product 176,Fashion,SubCat 9,Brand 25,173.57,270.64,Supplier 16,5/15/2025 0:00
+P177,Product 177,Books,SubCat 5,Brand 2,259.43,363.12,Supplier 20,11/3/2024 0:00
+P178,Product 178,Fashion,SubCat 1,Brand 25,571.84,940.17,Supplier 18,5/9/2023 0:00
+P179,Product 179,Beauty,SubCat 8,Brand 29,56.98,67.65,Supplier 10,1/18/2023 0:00
+P180,Product 180,Books,SubCat 6,Brand 19,148.41,168.05,Supplier 3,5/17/2023 0:00
+P181,Product 181,Grocery,SubCat 2,Brand 23,222.08,272.06,Supplier 3,3/19/2024 0:00
+P182,Product 182,Electronics,SubCat 8,Brand 27,73.68,109.17,Supplier 5,11/22/2023 0:00
+P183,Product 183,Fashion,SubCat 9,Brand 25,473.26,768.91,Supplier 13,12/26/2022 0:00
+P184,Product 184,Fashion,SubCat 9,Brand 2,760.55,896.31,Supplier 19,3/31/2020 0:00
+P185,Product 185,Sports,SubCat 8,Brand 7,876.74,1135.72,Supplier 4,8/20/2022 0:00
+P186,Product 186,Home Appliances,SubCat 3,Brand 11,989.09,1205.38,Supplier 14,11/20/2022 0:00
+P187,Product 187,Beauty,SubCat 8,Brand 27,502.31,865.03,Supplier 4,4/24/2020 0:00
+P188,Product 188,Beauty,SubCat 6,Brand 14,705.83,820.8,Supplier 17,4/5/2021 0:00
+P189,Product 189,Beauty,SubCat 2,Brand 8,53.21,77.95,Supplier 14,12/4/2020 0:00
+P190,Product 190,Electronics,SubCat 8,Brand 14,565.48,793.32,Supplier 16,6/15/2023 0:00
+P191,Product 191,Grocery,SubCat 2,Brand 3,568.12,680.88,Supplier 13,12/13/2021 0:00
+P192,Product 192,Home Appliances,SubCat 6,Brand 21,777.54,866.74,Supplier 20,6/10/2021 0:00
+P193,Product 193,Sports,SubCat 5,Brand 28,580.58,687.63,Supplier 5,5/22/2020 0:00
+P194,Product 194,Grocery,SubCat 1,Brand 18,835.75,1392.91,Supplier 13,12/27/2020 0:00
+P195,Product 195,Home Appliances,SubCat 1,Brand 30,570.54,707.18,Supplier 3,5/24/2025 0:00
+P196,Product 196,Electronics,SubCat 10,Brand 22,122.47,211.15,Supplier 5,9/18/2025 0:00
+P197,Product 197,Home Appliances,SubCat 5,Brand 10,995.65,1122.5,Supplier 8,8/31/2021 0:00
+P198,Product 198,Beauty,SubCat 8,Brand 10,183.62,213.17,Supplier 15,9/3/2021 0:00
+P199,Product 199,Grocery,SubCat 2,Brand 10,302.85,387.94,Supplier 15,9/13/2021 0:00
+P200,Product 200,Home Appliances,SubCat 1,Brand 28,72.07,79.58,Supplier 15,5/17/2024 0:00
+P201,Product 201,Fashion,SubCat 2,Brand 13,168.79,270.31,Supplier 12,6/19/2022 0:00
+P202,Product 202,Beauty,SubCat 7,Brand 25,423.28,673.79,Supplier 4,9/8/2025 0:00
+P203,Product 203,Sports,SubCat 9,Brand 13,225.36,346.24,Supplier 8,4/11/2022 0:00
+P204,Product 204,Home Appliances,SubCat 6,Brand 29,368.55,535.12,Supplier 1,9/30/2021 0:00
+P205,Product 205,Sports,SubCat 6,Brand 28,576.25,899.18,Supplier 3,4/5/2024 0:00
+P206,Product 206,Home Appliances,SubCat 9,Brand 8,529.41,608.61,Supplier 9,4/3/2020 0:00
+P207,Product 207,Beauty,SubCat 4,Brand 13,670.05,1021.72,Supplier 17,6/2/2023 0:00
+P208,Product 208,Beauty,SubCat 1,Brand 8,21.55,31.57,Supplier 2,9/20/2022 0:00
+P209,Product 209,Grocery,SubCat 4,Brand 5,504.46,818.65,Supplier 2,5/19/2022 0:00
+P210,Product 210,Sports,SubCat 1,Brand 1,497.6,774.27,Supplier 11,11/23/2023 0:00
+P211,Product 211,Grocery,SubCat 1,Brand 23,294.76,344.41,Supplier 10,5/6/2021 0:00
+P212,Product 212,Electronics,SubCat 8,Brand 20,253.81,340.1,Supplier 1,3/16/2021 0:00
+P213,Product 213,Beauty,SubCat 4,Brand 9,732.52,1190.16,Supplier 2,7/24/2024 0:00
+P214,Product 214,Beauty,SubCat 8,Brand 11,699.49,1138.72,Supplier 13,5/9/2023 0:00
+P215,Product 215,Fashion,SubCat 1,Brand 5,649.73,770.15,Supplier 13,2/15/2020 0:00
+P216,Product 216,Books,SubCat 9,Brand 26,67.01,111.04,Supplier 3,1/27/2022 0:00
+P217,Product 217,Books,SubCat 9,Brand 11,585.68,1023.24,Supplier 5,11/14/2023 0:00
+P218,Product 218,Grocery,SubCat 2,Brand 5,884.03,1313.44,Supplier 12,3/23/2022 0:00
+P219,Product 219,Books,SubCat 5,Brand 16,608.89,973.25,Supplier 9,12/30/2021 0:00
+P220,Product 220,Home Appliances,SubCat 8,Brand 2,751.4,942.75,Supplier 8,4/15/2023 0:00
+P221,Product 221,Grocery,SubCat 10,Brand 26,323.28,400.78,Supplier 4,9/5/2025 0:00
+P222,Product 222,Fashion,SubCat 2,Brand 29,734.28,956.36,Supplier 2,8/3/2025 0:00
+P223,Product 223,Fashion,SubCat 6,Brand 25,336.7,496.48,Supplier 6,4/26/2022 0:00
+P224,Product 224,Grocery,SubCat 8,Brand 26,148.52,258.77,Supplier 9,6/22/2020 0:00
+P225,Product 225,Grocery,SubCat 2,Brand 4,739.86,912.15,Supplier 16,6/3/2022 0:00
+P226,Product 226,Electronics,SubCat 4,Brand 17,998.26,1666.43,Supplier 17,12/3/2021 0:00
+P227,Product 227,Home Appliances,SubCat 3,Brand 28,884.86,1316.61,Supplier 14,8/20/2025 0:00
+P228,Product 228,Sports,SubCat 1,Brand 1,232.2,335.56,Supplier 6,4/12/2021 0:00
+P229,Product 229,Beauty,SubCat 2,Brand 3,396.71,689.15,Supplier 2,8/5/2023 0:00
+P230,Product 230,Beauty,SubCat 9,Brand 25,989.92,1571.4,Supplier 6,9/10/2025 0:00
+P231,Product 231,Books,SubCat 4,Brand 19,863.25,1161.37,Supplier 16,3/12/2024 0:00
+P232,Product 232,Fashion,SubCat 1,Brand 28,99.18,132.76,Supplier 9,8/20/2023 0:00
+P233,Product 233,Home Appliances,SubCat 5,Brand 9,659.78,892.53,Supplier 8,3/23/2025 0:00
+P234,Product 234,Beauty,SubCat 6,Brand 9,117.1,164.25,Supplier 17,2/18/2020 0:00
+P235,Product 235,Books,SubCat 5,Brand 26,396.92,641.58,Supplier 8,10/26/2025 0:00
+P236,Product 236,Home Appliances,SubCat 6,Brand 29,52.4,76,Supplier 2,5/9/2025 0:00
+P237,Product 237,Beauty,SubCat 6,Brand 2,879.11,1324.47,Supplier 20,2/12/2021 0:00
+P238,Product 238,Home Appliances,SubCat 5,Brand 28,874.12,977.7,Supplier 7,12/7/2021 0:00
+P239,Product 239,Home Appliances,SubCat 8,Brand 13,883.82,1496.91,Supplier 18,2/1/2025 0:00
+P240,Product 240,Home Appliances,SubCat 1,Brand 21,674.2,1208.41,Supplier 7,1/24/2020 0:00
+P241,Product 241,Home Appliances,SubCat 4,Brand 15,777.74,1121.93,Supplier 12,6/11/2023 0:00
+P242,Product 242,Electronics,SubCat 1,Brand 20,141.92,207.32,Supplier 14,1/18/2023 0:00
+P243,Product 243,Fashion,SubCat 7,Brand 22,765.46,1197.4,Supplier 17,5/15/2022 0:00
+P244,Product 244,Home Appliances,SubCat 6,Brand 24,753.32,1092.64,Supplier 7,7/28/2022 0:00
+P245,Product 245,Books,SubCat 3,Brand 28,721.49,1013.39,Supplier 17,12/31/2020 0:00
+P246,Product 246,Beauty,SubCat 8,Brand 15,449.74,807.35,Supplier 2,10/23/2020 0:00
+P247,Product 247,Home Appliances,SubCat 3,Brand 5,296.71,381.23,Supplier 13,3/21/2025 0:00
+P248,Product 248,Home Appliances,SubCat 5,Brand 16,782.66,1317.29,Supplier 16,1/18/2021 0:00
+P249,Product 249,Grocery,SubCat 4,Brand 3,671.55,1189.51,Supplier 15,7/24/2023 0:00
+P250,Product 250,Grocery,SubCat 6,Brand 6,972.26,1481.07,Supplier 16,10/16/2020 0:00
+P251,Product 251,Sports,SubCat 2,Brand 15,799.61,1156.12,Supplier 13,8/29/2025 0:00
+P252,Product 252,Sports,SubCat 8,Brand 6,287.02,492.62,Supplier 2,10/25/2025 0:00
+P253,Product 253,Home Appliances,SubCat 10,Brand 30,898.13,1430.07,Supplier 20,9/8/2022 0:00
+P254,Product 254,Beauty,SubCat 4,Brand 13,371.25,602.51,Supplier 19,6/13/2022 0:00
+P255,Product 255,Home Appliances,SubCat 9,Brand 5,662.2,1169.75,Supplier 19,3/16/2025 0:00
+P256,Product 256,Fashion,SubCat 7,Brand 20,438.04,511.51,Supplier 13,12/26/2023 0:00
+P257,Product 257,Books,SubCat 1,Brand 19,264.13,457.09,Supplier 4,7/12/2022 0:00
+P258,Product 258,Fashion,SubCat 8,Brand 9,887.4,981.29,Supplier 2,4/24/2022 0:00
+P259,Product 259,Home Appliances,SubCat 5,Brand 19,198.37,232.83,Supplier 10,12/17/2020 0:00
+P260,Product 260,Books,SubCat 7,Brand 6,936.64,1605.41,Supplier 16,5/31/2023 0:00
+P261,Product 261,Home Appliances,SubCat 8,Brand 20,649.1,1136.04,Supplier 20,3/3/2025 0:00
+P262,Product 262,Books,SubCat 9,Brand 28,128.48,226.76,Supplier 11,9/23/2023 0:00
+P263,Product 263,Electronics,SubCat 4,Brand 8,376.32,536.63,Supplier 11,6/23/2023 0:00
+P264,Product 264,Books,SubCat 4,Brand 15,445.47,729.92,Supplier 18,2/24/2025 0:00
+P265,Product 265,Electronics,SubCat 2,Brand 30,627.97,798.93,Supplier 11,7/10/2020 0:00
+P266,Product 266,Fashion,SubCat 8,Brand 4,870.81,1422.8,Supplier 13,2/27/2022 0:00
+P267,Product 267,Grocery,SubCat 9,Brand 9,908.16,1240.38,Supplier 14,3/2/2024 0:00
+P268,Product 268,Grocery,SubCat 3,Brand 27,243.29,399.87,Supplier 7,9/9/2020 0:00
+P269,Product 269,Fashion,SubCat 1,Brand 2,438.27,782.55,Supplier 20,7/11/2021 0:00
+P270,Product 270,Sports,SubCat 8,Brand 28,239.75,368.22,Supplier 5,11/22/2024 0:00
+P271,Product 271,Electronics,SubCat 2,Brand 26,484.89,693.01,Supplier 5,2/26/2024 0:00
+P272,Product 272,Grocery,SubCat 9,Brand 3,130.04,182.86,Supplier 11,7/22/2022 0:00
+P273,Product 273,Sports,SubCat 6,Brand 5,330.9,574.17,Supplier 3,1/31/2020 0:00
+P274,Product 274,Grocery,SubCat 7,Brand 30,509.82,569.61,Supplier 3,2/9/2020 0:00
+P275,Product 275,Fashion,SubCat 3,Brand 27,812.77,995.23,Supplier 7,12/23/2024 0:00
+P276,Product 276,Electronics,SubCat 5,Brand 23,667.3,1192.78,Supplier 17,8/3/2023 0:00
+P277,Product 277,Grocery,SubCat 8,Brand 6,228.98,266.39,Supplier 4,11/19/2023 0:00
+P278,Product 278,Books,SubCat 2,Brand 25,604.79,922.35,Supplier 15,8/9/2024 0:00
+P279,Product 279,Home Appliances,SubCat 8,Brand 7,937.76,1192.25,Supplier 10,8/13/2021 0:00
+P280,Product 280,Grocery,SubCat 7,Brand 1,854.01,1383.17,Supplier 12,6/6/2025 0:00
+P281,Product 281,Sports,SubCat 10,Brand 26,667.5,1132.65,Supplier 3,12/6/2025 0:00
+P282,Product 282,Books,SubCat 3,Brand 19,345.11,535.11,Supplier 1,12/9/2025 0:00
+P283,Product 283,Home Appliances,SubCat 5,Brand 8,87.47,152.25,Supplier 7,5/27/2021 0:00
+P284,Product 284,Sports,SubCat 9,Brand 8,447.52,689.05,Supplier 11,8/22/2023 0:00
+P285,Product 285,Home Appliances,SubCat 6,Brand 1,193.78,301.62,Supplier 4,1/30/2025 0:00
+P286,Product 286,Fashion,SubCat 4,Brand 10,635.61,999.87,Supplier 9,11/9/2021 0:00
+P287,Product 287,Fashion,SubCat 4,Brand 3,173.38,225.82,Supplier 18,6/7/2024 0:00
+P288,Product 288,Beauty,SubCat 9,Brand 10,109.31,167.67,Supplier 20,4/15/2020 0:00
+P289,Product 289,Grocery,SubCat 2,Brand 21,839.47,1503.55,Supplier 6,7/7/2020 0:00
+P290,Product 290,Fashion,SubCat 1,Brand 17,307.42,362.13,Supplier 17,11/19/2020 0:00
+P291,Product 291,Home Appliances,SubCat 6,Brand 1,533.72,783.12,Supplier 4,7/16/2022 0:00
+P292,Product 292,Sports,SubCat 3,Brand 19,424.21,650.72,Supplier 17,12/27/2021 0:00
+P293,Product 293,Books,SubCat 7,Brand 4,857.29,1422.29,Supplier 17,6/18/2024 0:00
+P294,Product 294,Electronics,SubCat 7,Brand 18,931.11,1204.55,Supplier 19,1/24/2023 0:00
+P295,Product 295,Electronics,SubCat 6,Brand 9,287.21,477.71,Supplier 3,1/1/2021 0:00
+P296,Product 296,Beauty,SubCat 2,Brand 5,794.17,1014.2,Supplier 7,9/28/2024 0:00
+P297,Product 297,Sports,SubCat 10,Brand 12,257.23,344.38,Supplier 20,4/7/2021 0:00
+P298,Product 298,Beauty,SubCat 3,Brand 3,781.68,1267.99,Supplier 2,6/30/2025 0:00
+P299,Product 299,Grocery,SubCat 5,Brand 17,752.73,895.2,Supplier 19,11/13/2022 0:00
+P300,Product 300,Sports,SubCat 2,Brand 24,700.7,1120.27,Supplier 15,11/3/2021 0:00

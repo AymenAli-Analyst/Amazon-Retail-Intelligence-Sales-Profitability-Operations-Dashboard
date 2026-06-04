@@ -1,0 +1,1201 @@
+Customer_ID,Customer_Name,Gender,Age,Country,City,Registration_Date,Customer_Segment,Loyalty_Level,Total_Orders,Customer_Rating
+C0001,Customer 1,Female,25,Oman,Muscat,8/17/2021 0:00,Consumer,Gold,26,4.3
+C0002,Customer 2,Male,38,Saudi Arabia,Dammam,10/15/2021 0:00,SMB,Gold,31,3.1
+C0003,Customer 3,Male,26,Saudi Arabia,Dammam,8/1/2025 0:00,SMB,Gold,21,4.9
+C0004,Customer 4,Female,48,Saudi Arabia,Dammam,9/5/2020 0:00,Corporate,Platinum,27,3.2
+C0005,Customer 5,Male,23,Saudi Arabia,Dammam,4/19/2020 0:00,Corporate,Platinum,17,4.2
+C0006,Customer 6,Male,53,Kuwait,Kuwait City,10/10/2025 0:00,SMB,Silver,14,3.9
+C0007,Customer 7,Male,53,UAE,Dubai,10/6/2024 0:00,Consumer,Gold,24,3.6
+C0008,Customer 8,Female,18,Kuwait,Kuwait City,8/30/2025 0:00,Corporate,Silver,19,4.5
+C0009,Customer 9,Female,26,UAE,Dubai,6/24/2025 0:00,Corporate,Platinum,50,3.4
+C0010,Customer 10,Female,33,UAE,Abu Dhabi,1/21/2022 0:00,Corporate,Platinum,28,4.7
+C0011,Customer 11,Male,51,Oman,Muscat,11/2/2025 0:00,Consumer,Platinum,34,4.3
+C0012,Customer 12,Female,49,Qatar,Doha,12/4/2020 0:00,Consumer,Silver,48,3.8
+C0013,Customer 13,Male,39,Kuwait,Kuwait City,1/9/2021 0:00,Corporate,Silver,34,3.4
+C0014,Customer 14,Male,47,UAE,Dubai,4/24/2025 0:00,Corporate,Silver,48,3.7
+C0015,Customer 15,Female,23,Qatar,Doha,8/21/2025 0:00,SMB,Gold,50,4.9
+C0016,Customer 16,Male,22,Qatar,Doha,6/8/2022 0:00,SMB,Platinum,33,4.7
+C0017,Customer 17,Male,45,Qatar,Doha,10/22/2023 0:00,Consumer,Silver,40,3.6
+C0018,Customer 18,Female,39,Kuwait,Kuwait City,10/2/2025 0:00,Consumer,Platinum,30,3.1
+C0019,Customer 19,Male,32,UAE,Abu Dhabi,10/1/2020 0:00,SMB,Silver,50,3.2
+C0020,Customer 20,Female,30,Saudi Arabia,Dammam,2/1/2024 0:00,Consumer,Platinum,19,3.9
+C0021,Customer 21,Male,31,Oman,Muscat,3/6/2020 0:00,SMB,Silver,42,4.2
+C0022,Customer 22,Male,20,Oman,Muscat,8/10/2025 0:00,Consumer,Silver,38,3.9
+C0023,Customer 23,Female,54,UAE,Abu Dhabi,7/2/2024 0:00,Corporate,Gold,47,3.3
+C0024,Customer 24,Female,34,UAE,Abu Dhabi,7/21/2022 0:00,SMB,Platinum,37,3.1
+C0025,Customer 25,Male,41,Oman,Muscat,2/26/2022 0:00,SMB,Gold,41,4.2
+C0026,Customer 26,Female,43,Saudi Arabia,Jeddah,3/29/2025 0:00,SMB,Platinum,21,3.6
+C0027,Customer 27,Female,50,Qatar,Doha,5/7/2021 0:00,Corporate,Platinum,48,4.6
+C0028,Customer 28,Female,34,Qatar,Doha,9/15/2023 0:00,Consumer,Silver,27,4.3
+C0029,Customer 29,Male,57,Oman,Muscat,11/17/2020 0:00,SMB,Gold,26,3
+C0030,Customer 30,Male,42,Oman,Muscat,3/14/2024 0:00,Corporate,Platinum,27,4.2
+C0031,Customer 31,Male,64,UAE,Abu Dhabi,12/3/2023 0:00,Corporate,Silver,30,4.8
+C0032,Customer 32,Female,44,Bahrain,Manama,11/8/2024 0:00,SMB,Platinum,36,4
+C0033,Customer 33,Female,55,Oman,Muscat,2/16/2022 0:00,Consumer,Gold,17,4.4
+C0034,Customer 34,Male,18,UAE,Abu Dhabi,10/29/2020 0:00,Consumer,Gold,20,3.4
+C0035,Customer 35,Female,64,Oman,Muscat,3/16/2021 0:00,SMB,Silver,45,3.4
+C0036,Customer 36,Female,38,Kuwait,Kuwait City,4/30/2024 0:00,SMB,Gold,12,4.9
+C0037,Customer 37,Female,37,Oman,Muscat,10/11/2022 0:00,SMB,Gold,10,4.7
+C0038,Customer 38,Female,49,UAE,Dubai,2/11/2025 0:00,SMB,Gold,42,3.5
+C0039,Customer 39,Male,45,UAE,Abu Dhabi,2/20/2021 0:00,Corporate,Gold,19,4.9
+C0040,Customer 40,Female,46,UAE,Abu Dhabi,1/18/2025 0:00,SMB,Platinum,10,3
+C0041,Customer 41,Male,56,Bahrain,Manama,4/26/2025 0:00,Consumer,Silver,21,5
+C0042,Customer 42,Male,46,Qatar,Doha,9/6/2023 0:00,Consumer,Gold,18,3.1
+C0043,Customer 43,Male,51,Kuwait,Kuwait City,8/2/2024 0:00,Consumer,Platinum,37,4.5
+C0044,Customer 44,Female,60,Qatar,Doha,12/30/2025 0:00,Corporate,Gold,23,3.7
+C0045,Customer 45,Female,31,UAE,Dubai,7/13/2021 0:00,Consumer,Gold,5,3.3
+C0046,Customer 46,Male,63,Bahrain,Manama,1/28/2021 0:00,Consumer,Platinum,36,4.6
+C0047,Customer 47,Female,49,Saudi Arabia,Riyadh,6/19/2021 0:00,Consumer,Silver,3,3
+C0048,Customer 48,Male,47,Bahrain,Manama,11/18/2022 0:00,Consumer,Silver,50,3.8
+C0049,Customer 49,Female,58,UAE,Dubai,7/4/2024 0:00,Consumer,Silver,1,3.8
+C0050,Customer 50,Female,48,Kuwait,Kuwait City,5/13/2023 0:00,Corporate,Silver,47,3.8
+C0051,Customer 51,Female,43,Bahrain,Manama,12/9/2025 0:00,Corporate,Platinum,43,4.5
+C0052,Customer 52,Female,42,Saudi Arabia,Riyadh,10/25/2025 0:00,Consumer,Gold,6,3.7
+C0053,Customer 53,Female,28,Kuwait,Kuwait City,4/20/2023 0:00,Consumer,Gold,27,4
+C0054,Customer 54,Male,48,Saudi Arabia,Riyadh,1/7/2024 0:00,Corporate,Platinum,3,5
+C0055,Customer 55,Female,34,Kuwait,Kuwait City,3/8/2025 0:00,Consumer,Silver,8,3.3
+C0056,Customer 56,Female,38,Bahrain,Manama,2/28/2022 0:00,Consumer,Platinum,2,4.9
+C0057,Customer 57,Female,65,UAE,Dubai,9/26/2024 0:00,SMB,Silver,1,4.7
+C0058,Customer 58,Male,39,Saudi Arabia,Dammam,3/2/2021 0:00,Consumer,Gold,7,4.6
+C0059,Customer 59,Female,43,Kuwait,Kuwait City,1/26/2022 0:00,Corporate,Gold,7,3.2
+C0060,Customer 60,Male,42,Kuwait,Kuwait City,8/5/2025 0:00,Consumer,Platinum,26,4.3
+C0061,Customer 61,Male,46,UAE,Abu Dhabi,9/19/2021 0:00,Consumer,Gold,13,4.2
+C0062,Customer 62,Female,59,Oman,Muscat,1/20/2022 0:00,Consumer,Gold,44,4
+C0063,Customer 63,Female,27,UAE,Dubai,12/15/2023 0:00,Corporate,Silver,43,4
+C0064,Customer 64,Female,33,Saudi Arabia,Dammam,10/9/2022 0:00,SMB,Platinum,5,3.8
+C0065,Customer 65,Male,25,Saudi Arabia,Dammam,8/2/2023 0:00,SMB,Platinum,38,4
+C0066,Customer 66,Female,40,Saudi Arabia,Jeddah,5/5/2022 0:00,Corporate,Gold,21,4.7
+C0067,Customer 67,Male,63,Saudi Arabia,Riyadh,7/30/2022 0:00,Corporate,Gold,49,3.2
+C0068,Customer 68,Female,34,Qatar,Doha,7/30/2025 0:00,SMB,Silver,25,4.1
+C0069,Customer 69,Female,65,Qatar,Doha,10/14/2020 0:00,Corporate,Silver,41,4.4
+C0070,Customer 70,Male,48,UAE,Abu Dhabi,4/8/2023 0:00,SMB,Silver,9,3.5
+C0071,Customer 71,Female,50,Oman,Muscat,8/4/2024 0:00,SMB,Platinum,24,4.6
+C0072,Customer 72,Male,25,Kuwait,Kuwait City,6/28/2021 0:00,SMB,Platinum,13,3.9
+C0073,Customer 73,Male,49,UAE,Dubai,7/16/2020 0:00,Corporate,Gold,12,3.9
+C0074,Customer 74,Male,22,Oman,Muscat,4/2/2023 0:00,Corporate,Platinum,18,4.9
+C0075,Customer 75,Female,34,UAE,Dubai,4/11/2025 0:00,Consumer,Platinum,25,4.5
+C0076,Customer 76,Male,19,UAE,Dubai,12/23/2022 0:00,Corporate,Silver,50,3.7
+C0077,Customer 77,Male,44,Oman,Muscat,3/10/2025 0:00,Consumer,Platinum,48,3.8
+C0078,Customer 78,Male,27,UAE,Abu Dhabi,2/13/2025 0:00,SMB,Gold,12,4.7
+C0079,Customer 79,Male,36,Bahrain,Manama,1/7/2024 0:00,Corporate,Silver,42,4.8
+C0080,Customer 80,Female,39,UAE,Abu Dhabi,12/20/2023 0:00,Consumer,Platinum,41,3.5
+C0081,Customer 81,Female,64,Oman,Muscat,1/14/2025 0:00,Corporate,Gold,11,3.7
+C0082,Customer 82,Female,34,Kuwait,Kuwait City,8/18/2021 0:00,Corporate,Platinum,10,3.5
+C0083,Customer 83,Male,27,Saudi Arabia,Riyadh,8/15/2023 0:00,Corporate,Silver,50,3.9
+C0084,Customer 84,Female,26,Saudi Arabia,Riyadh,7/30/2023 0:00,Corporate,Silver,1,4.3
+C0085,Customer 85,Male,42,Bahrain,Manama,3/12/2025 0:00,SMB,Silver,30,5
+C0086,Customer 86,Male,55,Kuwait,Kuwait City,6/10/2021 0:00,Corporate,Platinum,24,3.5
+C0087,Customer 87,Male,32,Kuwait,Kuwait City,2/17/2022 0:00,SMB,Gold,21,3.2
+C0088,Customer 88,Male,24,UAE,Abu Dhabi,8/4/2025 0:00,SMB,Platinum,1,3.5
+C0089,Customer 89,Female,59,Oman,Muscat,2/9/2020 0:00,SMB,Silver,23,3.5
+C0090,Customer 90,Male,65,Oman,Muscat,12/1/2024 0:00,Corporate,Silver,50,4.9
+C0091,Customer 91,Female,20,Oman,Muscat,3/5/2022 0:00,Consumer,Platinum,22,4
+C0092,Customer 92,Female,38,Qatar,Doha,3/21/2024 0:00,Consumer,Gold,41,3
+C0093,Customer 93,Male,21,Kuwait,Kuwait City,7/24/2022 0:00,SMB,Platinum,40,3.8
+C0094,Customer 94,Female,61,Kuwait,Kuwait City,5/17/2024 0:00,Consumer,Silver,19,4.6
+C0095,Customer 95,Male,43,UAE,Abu Dhabi,7/18/2021 0:00,SMB,Silver,48,4.5
+C0096,Customer 96,Male,51,Oman,Muscat,2/3/2021 0:00,Consumer,Silver,25,4.3
+C0097,Customer 97,Male,35,Saudi Arabia,Jeddah,6/7/2025 0:00,Corporate,Gold,5,4
+C0098,Customer 98,Female,33,Qatar,Doha,11/5/2023 0:00,SMB,Gold,31,4.8
+C0099,Customer 99,Female,62,Qatar,Doha,1/1/2021 0:00,Consumer,Silver,31,4.5
+C0100,Customer 100,Female,62,Kuwait,Kuwait City,7/11/2022 0:00,Corporate,Gold,33,4.5
+C0101,Customer 101,Male,30,Oman,Muscat,8/18/2025 0:00,Consumer,Platinum,29,4.6
+C0102,Customer 102,Female,60,Saudi Arabia,Jeddah,11/7/2024 0:00,Corporate,Gold,13,4.8
+C0103,Customer 103,Female,44,Saudi Arabia,Jeddah,11/17/2022 0:00,Consumer,Gold,21,4
+C0104,Customer 104,Male,38,Saudi Arabia,Dammam,2/1/2023 0:00,Corporate,Gold,25,3
+C0105,Customer 105,Female,59,Saudi Arabia,Jeddah,7/22/2021 0:00,SMB,Platinum,19,3.3
+C0106,Customer 106,Male,38,Qatar,Doha,7/9/2024 0:00,Corporate,Silver,38,4.4
+C0107,Customer 107,Male,35,UAE,Dubai,8/11/2025 0:00,Consumer,Platinum,35,3.5
+C0108,Customer 108,Male,25,Kuwait,Kuwait City,7/14/2025 0:00,Corporate,Gold,1,3.6
+C0109,Customer 109,Male,43,Kuwait,Kuwait City,1/29/2022 0:00,Consumer,Silver,3,3.2
+C0110,Customer 110,Female,54,Saudi Arabia,Jeddah,4/30/2024 0:00,Consumer,Silver,20,3.4
+C0111,Customer 111,Male,46,Saudi Arabia,Riyadh,7/3/2021 0:00,SMB,Gold,2,3.6
+C0112,Customer 112,Female,28,Qatar,Doha,6/27/2020 0:00,Consumer,Platinum,3,4.6
+C0113,Customer 113,Female,34,Saudi Arabia,Dammam,1/17/2022 0:00,Consumer,Gold,27,3.2
+C0114,Customer 114,Female,56,Qatar,Doha,11/4/2025 0:00,Corporate,Platinum,26,3.1
+C0115,Customer 115,Male,31,Bahrain,Manama,10/7/2024 0:00,SMB,Silver,24,3.2
+C0116,Customer 116,Male,46,Bahrain,Manama,4/15/2024 0:00,Corporate,Silver,27,4
+C0117,Customer 117,Male,62,Qatar,Doha,4/24/2020 0:00,SMB,Platinum,8,4.7
+C0118,Customer 118,Male,45,Saudi Arabia,Riyadh,12/14/2023 0:00,Corporate,Platinum,50,3.6
+C0119,Customer 119,Female,51,UAE,Abu Dhabi,5/2/2023 0:00,Corporate,Gold,37,4.2
+C0120,Customer 120,Female,29,Kuwait,Kuwait City,3/13/2023 0:00,SMB,Platinum,15,4.8
+C0121,Customer 121,Female,34,Oman,Muscat,12/2/2022 0:00,Consumer,Platinum,15,4.1
+C0122,Customer 122,Male,46,Bahrain,Manama,11/30/2020 0:00,SMB,Platinum,25,4.4
+C0123,Customer 123,Male,22,Qatar,Doha,9/2/2020 0:00,Consumer,Gold,31,4.8
+C0124,Customer 124,Male,25,UAE,Abu Dhabi,8/6/2020 0:00,Corporate,Silver,23,3.4
+C0125,Customer 125,Female,51,Bahrain,Manama,10/20/2024 0:00,Corporate,Gold,31,3.9
+C0126,Customer 126,Male,21,Oman,Muscat,10/7/2023 0:00,SMB,Platinum,32,4
+C0127,Customer 127,Male,20,Kuwait,Kuwait City,3/21/2022 0:00,SMB,Gold,4,4.4
+C0128,Customer 128,Female,39,Qatar,Doha,2/12/2023 0:00,SMB,Platinum,23,3.9
+C0129,Customer 129,Female,44,Saudi Arabia,Jeddah,10/25/2022 0:00,Corporate,Silver,38,3.9
+C0130,Customer 130,Female,33,UAE,Abu Dhabi,10/8/2021 0:00,SMB,Gold,18,4.4
+C0131,Customer 131,Male,20,Oman,Muscat,8/20/2025 0:00,Consumer,Gold,22,4.6
+C0132,Customer 132,Female,28,Oman,Muscat,7/17/2023 0:00,Corporate,Gold,8,3.1
+C0133,Customer 133,Male,54,Bahrain,Manama,12/29/2023 0:00,Consumer,Gold,24,3.7
+C0134,Customer 134,Female,28,Qatar,Doha,3/20/2022 0:00,SMB,Platinum,2,3.4
+C0135,Customer 135,Male,22,Saudi Arabia,Riyadh,8/15/2021 0:00,Corporate,Silver,44,3.7
+C0136,Customer 136,Female,35,Oman,Muscat,7/1/2022 0:00,SMB,Silver,34,3.6
+C0137,Customer 137,Female,41,Oman,Muscat,12/1/2024 0:00,SMB,Gold,5,4.1
+C0138,Customer 138,Male,59,Saudi Arabia,Riyadh,1/19/2020 0:00,Corporate,Gold,17,3.4
+C0139,Customer 139,Female,18,Qatar,Doha,10/12/2021 0:00,Corporate,Silver,45,4
+C0140,Customer 140,Female,53,Bahrain,Manama,5/15/2022 0:00,Consumer,Gold,20,4.8
+C0141,Customer 141,Female,49,Saudi Arabia,Dammam,1/13/2022 0:00,SMB,Silver,45,4.5
+C0142,Customer 142,Female,50,Saudi Arabia,Riyadh,7/19/2021 0:00,Corporate,Gold,35,3.9
+C0143,Customer 143,Female,21,Oman,Muscat,11/6/2022 0:00,Consumer,Gold,4,3.9
+C0144,Customer 144,Female,39,Kuwait,Kuwait City,2/17/2025 0:00,SMB,Silver,39,4.3
+C0145,Customer 145,Male,35,Oman,Muscat,6/24/2025 0:00,SMB,Platinum,16,4.9
+C0146,Customer 146,Female,48,Oman,Muscat,1/3/2024 0:00,Corporate,Silver,21,3.4
+C0147,Customer 147,Male,43,Kuwait,Kuwait City,3/28/2025 0:00,Corporate,Gold,45,3.3
+C0148,Customer 148,Female,39,Kuwait,Kuwait City,10/29/2022 0:00,Consumer,Gold,1,3.9
+C0149,Customer 149,Female,58,Bahrain,Manama,1/20/2020 0:00,SMB,Gold,36,5
+C0150,Customer 150,Male,28,Kuwait,Kuwait City,3/20/2020 0:00,Corporate,Platinum,35,4.3
+C0151,Customer 151,Male,57,Bahrain,Manama,5/27/2023 0:00,SMB,Platinum,35,4.4
+C0152,Customer 152,Female,18,Kuwait,Kuwait City,2/18/2022 0:00,SMB,Silver,43,3.5
+C0153,Customer 153,Male,53,Kuwait,Kuwait City,11/12/2024 0:00,SMB,Gold,48,3.3
+C0154,Customer 154,Male,56,Qatar,Doha,12/13/2020 0:00,SMB,Platinum,49,4.3
+C0155,Customer 155,Male,38,Oman,Muscat,2/3/2025 0:00,SMB,Platinum,31,4.1
+C0156,Customer 156,Male,36,Bahrain,Manama,11/12/2024 0:00,Consumer,Gold,5,3.7
+C0157,Customer 157,Male,63,Qatar,Doha,3/28/2023 0:00,Consumer,Silver,22,3
+C0158,Customer 158,Female,50,Saudi Arabia,Dammam,10/15/2023 0:00,SMB,Silver,46,4.6
+C0159,Customer 159,Female,47,UAE,Dubai,2/18/2021 0:00,Consumer,Silver,32,4.5
+C0160,Customer 160,Female,20,Bahrain,Manama,8/29/2025 0:00,Corporate,Gold,7,4
+C0161,Customer 161,Male,52,Qatar,Doha,12/19/2023 0:00,Consumer,Gold,14,4.9
+C0162,Customer 162,Male,28,Kuwait,Kuwait City,12/20/2022 0:00,Corporate,Silver,14,4.8
+C0163,Customer 163,Male,52,Bahrain,Manama,10/4/2020 0:00,SMB,Gold,37,3.1
+C0164,Customer 164,Female,50,Qatar,Doha,4/11/2021 0:00,Consumer,Platinum,7,4
+C0165,Customer 165,Female,53,Oman,Muscat,4/11/2020 0:00,Consumer,Silver,49,4.1
+C0166,Customer 166,Female,65,Qatar,Doha,11/9/2020 0:00,SMB,Gold,45,3.8
+C0167,Customer 167,Female,54,Kuwait,Kuwait City,11/29/2025 0:00,Corporate,Gold,11,3.5
+C0168,Customer 168,Male,46,Bahrain,Manama,12/26/2024 0:00,SMB,Platinum,44,4.4
+C0169,Customer 169,Female,47,Bahrain,Manama,6/11/2025 0:00,Consumer,Platinum,11,3.3
+C0170,Customer 170,Female,51,Saudi Arabia,Dammam,12/28/2023 0:00,Consumer,Gold,15,3.2
+C0171,Customer 171,Female,51,UAE,Abu Dhabi,3/1/2025 0:00,Corporate,Silver,17,3.7
+C0172,Customer 172,Male,28,Oman,Muscat,7/6/2020 0:00,Consumer,Gold,30,3.1
+C0173,Customer 173,Male,42,Qatar,Doha,12/14/2020 0:00,SMB,Gold,29,3.7
+C0174,Customer 174,Female,58,Qatar,Doha,3/5/2020 0:00,Consumer,Gold,32,4.1
+C0175,Customer 175,Male,46,UAE,Abu Dhabi,12/27/2024 0:00,SMB,Gold,21,4.1
+C0176,Customer 176,Female,25,UAE,Abu Dhabi,1/30/2021 0:00,SMB,Silver,9,3.4
+C0177,Customer 177,Male,19,Kuwait,Kuwait City,5/16/2024 0:00,Consumer,Silver,42,3.6
+C0178,Customer 178,Male,45,Qatar,Doha,1/28/2022 0:00,Corporate,Silver,6,3.5
+C0179,Customer 179,Male,52,Qatar,Doha,8/16/2025 0:00,Corporate,Silver,45,4.4
+C0180,Customer 180,Female,24,Qatar,Doha,9/3/2024 0:00,SMB,Gold,8,3.7
+C0181,Customer 181,Female,51,Qatar,Doha,8/10/2024 0:00,SMB,Silver,9,3.6
+C0182,Customer 182,Female,44,Qatar,Doha,12/9/2020 0:00,Consumer,Silver,3,4.2
+C0183,Customer 183,Male,40,Oman,Muscat,7/3/2025 0:00,Consumer,Silver,41,4.6
+C0184,Customer 184,Female,61,Kuwait,Kuwait City,9/15/2022 0:00,SMB,Silver,18,4.7
+C0185,Customer 185,Female,31,Kuwait,Kuwait City,12/31/2020 0:00,Consumer,Gold,47,4
+C0186,Customer 186,Female,52,Saudi Arabia,Jeddah,7/17/2023 0:00,SMB,Gold,3,4.1
+C0187,Customer 187,Female,41,Saudi Arabia,Riyadh,7/1/2022 0:00,SMB,Gold,22,4.2
+C0188,Customer 188,Female,50,Saudi Arabia,Riyadh,6/30/2022 0:00,Corporate,Gold,30,4.3
+C0189,Customer 189,Female,59,Oman,Muscat,5/26/2023 0:00,SMB,Silver,24,3.2
+C0190,Customer 190,Female,24,Kuwait,Kuwait City,1/31/2021 0:00,Corporate,Silver,42,3.1
+C0191,Customer 191,Male,36,Saudi Arabia,Dammam,7/20/2023 0:00,Corporate,Platinum,25,3.7
+C0192,Customer 192,Male,44,Saudi Arabia,Dammam,11/16/2025 0:00,Corporate,Gold,42,3.6
+C0193,Customer 193,Female,23,Oman,Muscat,12/24/2024 0:00,Consumer,Platinum,22,4.4
+C0194,Customer 194,Male,35,Qatar,Doha,8/1/2023 0:00,Corporate,Gold,36,3.1
+C0195,Customer 195,Female,52,Oman,Muscat,6/18/2022 0:00,SMB,Silver,18,3.2
+C0196,Customer 196,Female,42,Bahrain,Manama,3/10/2023 0:00,Corporate,Gold,47,3.9
+C0197,Customer 197,Male,59,Saudi Arabia,Dammam,4/18/2021 0:00,Corporate,Gold,49,4.6
+C0198,Customer 198,Female,37,Oman,Muscat,7/14/2023 0:00,Consumer,Silver,17,3.2
+C0199,Customer 199,Male,52,Qatar,Doha,12/18/2023 0:00,SMB,Silver,38,4.3
+C0200,Customer 200,Female,40,Kuwait,Kuwait City,12/6/2025 0:00,Corporate,Gold,24,4.1
+C0201,Customer 201,Female,47,Bahrain,Manama,2/26/2020 0:00,Corporate,Silver,31,3.4
+C0202,Customer 202,Male,20,Saudi Arabia,Jeddah,8/12/2023 0:00,Consumer,Platinum,43,4.6
+C0203,Customer 203,Female,61,Bahrain,Manama,5/15/2025 0:00,SMB,Platinum,17,3.6
+C0204,Customer 204,Female,60,Kuwait,Kuwait City,1/17/2021 0:00,Corporate,Gold,49,4.2
+C0205,Customer 205,Female,27,Qatar,Doha,3/15/2021 0:00,Corporate,Silver,26,3.1
+C0206,Customer 206,Male,31,Qatar,Doha,1/24/2024 0:00,SMB,Silver,16,4.2
+C0207,Customer 207,Male,18,Oman,Muscat,2/10/2023 0:00,Corporate,Silver,33,3.9
+C0208,Customer 208,Male,45,Saudi Arabia,Jeddah,12/11/2021 0:00,Consumer,Platinum,11,4.9
+C0209,Customer 209,Male,44,Qatar,Doha,1/22/2024 0:00,Consumer,Gold,49,3.4
+C0210,Customer 210,Male,40,UAE,Abu Dhabi,5/6/2023 0:00,Corporate,Gold,14,4.5
+C0211,Customer 211,Female,39,Bahrain,Manama,11/26/2021 0:00,Consumer,Silver,22,4.6
+C0212,Customer 212,Male,61,Oman,Muscat,8/4/2024 0:00,Consumer,Silver,37,4
+C0213,Customer 213,Female,54,Bahrain,Manama,11/14/2025 0:00,SMB,Platinum,37,5
+C0214,Customer 214,Male,27,Qatar,Doha,2/29/2024 0:00,Consumer,Platinum,8,3.3
+C0215,Customer 215,Female,21,Qatar,Doha,1/7/2023 0:00,SMB,Silver,35,4.2
+C0216,Customer 216,Female,41,UAE,Dubai,4/16/2022 0:00,Consumer,Platinum,1,4.2
+C0217,Customer 217,Female,34,UAE,Dubai,9/27/2025 0:00,Consumer,Gold,39,4.7
+C0218,Customer 218,Female,29,Saudi Arabia,Dammam,2/15/2023 0:00,Consumer,Platinum,41,3.6
+C0219,Customer 219,Male,38,Oman,Muscat,2/14/2025 0:00,SMB,Gold,49,4.6
+C0220,Customer 220,Male,46,Qatar,Doha,8/6/2022 0:00,SMB,Silver,44,4.5
+C0221,Customer 221,Male,44,Saudi Arabia,Dammam,6/8/2025 0:00,SMB,Platinum,48,4.5
+C0222,Customer 222,Male,57,Saudi Arabia,Riyadh,4/1/2020 0:00,SMB,Platinum,45,4.4
+C0223,Customer 223,Female,35,Bahrain,Manama,7/12/2022 0:00,SMB,Platinum,29,4.8
+C0224,Customer 224,Male,33,Kuwait,Kuwait City,2/23/2024 0:00,Corporate,Gold,23,4.1
+C0225,Customer 225,Male,27,Bahrain,Manama,11/21/2020 0:00,Corporate,Gold,20,4.3
+C0226,Customer 226,Female,45,Bahrain,Manama,2/15/2024 0:00,Consumer,Silver,42,3.4
+C0227,Customer 227,Female,29,Bahrain,Manama,9/8/2025 0:00,SMB,Gold,20,3.9
+C0228,Customer 228,Female,27,Saudi Arabia,Jeddah,6/11/2020 0:00,SMB,Silver,2,4.6
+C0229,Customer 229,Male,19,Qatar,Doha,2/11/2020 0:00,Consumer,Platinum,18,4.8
+C0230,Customer 230,Female,53,Bahrain,Manama,12/16/2021 0:00,Corporate,Gold,47,3.3
+C0231,Customer 231,Female,45,Bahrain,Manama,10/16/2021 0:00,Consumer,Silver,21,4.6
+C0232,Customer 232,Female,57,Oman,Muscat,10/12/2021 0:00,SMB,Platinum,2,3.9
+C0233,Customer 233,Female,30,Bahrain,Manama,9/22/2021 0:00,SMB,Platinum,11,4.6
+C0234,Customer 234,Male,50,Kuwait,Kuwait City,9/5/2024 0:00,SMB,Silver,50,4.9
+C0235,Customer 235,Male,25,Kuwait,Kuwait City,8/2/2020 0:00,Consumer,Platinum,38,3.7
+C0236,Customer 236,Female,26,Kuwait,Kuwait City,3/24/2020 0:00,Consumer,Silver,41,3.4
+C0237,Customer 237,Male,43,Saudi Arabia,Jeddah,6/22/2023 0:00,SMB,Platinum,32,4.4
+C0238,Customer 238,Male,51,Saudi Arabia,Jeddah,11/7/2020 0:00,Consumer,Gold,8,4.7
+C0239,Customer 239,Male,58,Saudi Arabia,Jeddah,7/20/2023 0:00,SMB,Silver,2,4.1
+C0240,Customer 240,Female,22,Kuwait,Kuwait City,4/3/2020 0:00,Corporate,Platinum,18,3.1
+C0241,Customer 241,Female,27,Oman,Muscat,8/1/2024 0:00,Corporate,Silver,9,4.7
+C0242,Customer 242,Male,20,Saudi Arabia,Jeddah,9/9/2024 0:00,Consumer,Silver,27,3.9
+C0243,Customer 243,Male,34,UAE,Dubai,11/1/2021 0:00,Corporate,Platinum,42,3.1
+C0244,Customer 244,Male,19,Oman,Muscat,3/12/2022 0:00,SMB,Platinum,19,3.5
+C0245,Customer 245,Female,62,Qatar,Doha,8/9/2020 0:00,Consumer,Gold,32,3.8
+C0246,Customer 246,Female,31,Bahrain,Manama,10/9/2020 0:00,Consumer,Platinum,9,4.3
+C0247,Customer 247,Female,47,Saudi Arabia,Dammam,9/1/2023 0:00,Corporate,Platinum,9,4.7
+C0248,Customer 248,Female,34,UAE,Abu Dhabi,7/7/2022 0:00,SMB,Silver,25,3.4
+C0249,Customer 249,Female,32,Oman,Muscat,3/14/2022 0:00,SMB,Platinum,6,3.3
+C0250,Customer 250,Female,41,UAE,Dubai,7/29/2020 0:00,Consumer,Silver,45,4.9
+C0251,Customer 251,Female,31,UAE,Abu Dhabi,12/4/2021 0:00,Corporate,Gold,10,3.4
+C0252,Customer 252,Female,22,Oman,Muscat,6/13/2025 0:00,SMB,Gold,30,4.8
+C0253,Customer 253,Male,49,UAE,Abu Dhabi,8/25/2023 0:00,Corporate,Gold,36,3.8
+C0254,Customer 254,Female,52,Qatar,Doha,7/1/2024 0:00,Consumer,Silver,46,4
+C0255,Customer 255,Male,53,Qatar,Doha,7/31/2022 0:00,Corporate,Silver,29,3.9
+C0256,Customer 256,Female,23,Oman,Muscat,1/11/2021 0:00,SMB,Silver,2,4.1
+C0257,Customer 257,Male,45,Kuwait,Kuwait City,1/16/2024 0:00,Consumer,Platinum,29,3.1
+C0258,Customer 258,Male,46,UAE,Dubai,11/24/2025 0:00,Consumer,Silver,14,4.1
+C0259,Customer 259,Male,44,Oman,Muscat,10/13/2022 0:00,Corporate,Silver,49,3.7
+C0260,Customer 260,Male,62,Saudi Arabia,Dammam,1/9/2023 0:00,Corporate,Silver,1,3.7
+C0261,Customer 261,Female,19,Kuwait,Kuwait City,2/1/2025 0:00,Consumer,Gold,1,4.6
+C0262,Customer 262,Male,49,Kuwait,Kuwait City,6/28/2025 0:00,Corporate,Silver,15,4.1
+C0263,Customer 263,Male,24,Qatar,Doha,8/25/2024 0:00,Consumer,Gold,32,4
+C0264,Customer 264,Male,23,Kuwait,Kuwait City,4/11/2023 0:00,Corporate,Gold,41,4.2
+C0265,Customer 265,Female,22,Oman,Muscat,8/26/2021 0:00,Corporate,Silver,12,3.4
+C0266,Customer 266,Male,18,Kuwait,Kuwait City,1/18/2024 0:00,Consumer,Gold,4,3.7
+C0267,Customer 267,Female,19,Saudi Arabia,Jeddah,6/14/2023 0:00,Corporate,Silver,48,3.2
+C0268,Customer 268,Male,41,Kuwait,Kuwait City,12/10/2024 0:00,Consumer,Silver,29,4.6
+C0269,Customer 269,Female,63,Kuwait,Kuwait City,3/1/2020 0:00,SMB,Silver,25,3.7
+C0270,Customer 270,Male,34,Qatar,Doha,2/28/2023 0:00,Corporate,Silver,24,4.6
+C0271,Customer 271,Male,47,UAE,Dubai,10/4/2022 0:00,SMB,Silver,24,3.9
+C0272,Customer 272,Male,28,Bahrain,Manama,3/12/2024 0:00,SMB,Silver,40,4.6
+C0273,Customer 273,Female,29,UAE,Abu Dhabi,3/12/2023 0:00,Corporate,Gold,13,4.2
+C0274,Customer 274,Female,25,Kuwait,Kuwait City,3/27/2024 0:00,Consumer,Gold,46,4.7
+C0275,Customer 275,Male,46,Bahrain,Manama,12/29/2023 0:00,Consumer,Gold,1,3.7
+C0276,Customer 276,Female,58,Bahrain,Manama,4/19/2020 0:00,Consumer,Platinum,14,3.7
+C0277,Customer 277,Male,25,UAE,Abu Dhabi,12/15/2023 0:00,SMB,Platinum,10,3.3
+C0278,Customer 278,Female,23,Oman,Muscat,3/7/2023 0:00,SMB,Silver,14,3.6
+C0279,Customer 279,Male,35,Oman,Muscat,6/4/2021 0:00,SMB,Silver,1,4.4
+C0280,Customer 280,Male,48,Saudi Arabia,Dammam,6/2/2023 0:00,Corporate,Silver,33,3.8
+C0281,Customer 281,Male,62,Qatar,Doha,4/24/2022 0:00,SMB,Silver,40,4.3
+C0282,Customer 282,Female,18,Oman,Muscat,6/11/2025 0:00,SMB,Silver,16,3.9
+C0283,Customer 283,Male,30,Qatar,Doha,2/11/2025 0:00,Corporate,Silver,25,4.3
+C0284,Customer 284,Female,29,Oman,Muscat,8/29/2023 0:00,Corporate,Gold,40,3.9
+C0285,Customer 285,Female,49,UAE,Dubai,6/15/2025 0:00,Consumer,Silver,30,3.2
+C0286,Customer 286,Male,33,Saudi Arabia,Riyadh,5/18/2025 0:00,SMB,Silver,13,4.4
+C0287,Customer 287,Female,18,Saudi Arabia,Dammam,7/15/2022 0:00,Consumer,Silver,46,3.8
+C0288,Customer 288,Female,26,Saudi Arabia,Dammam,1/18/2021 0:00,SMB,Platinum,1,3.8
+C0289,Customer 289,Male,63,Bahrain,Manama,11/11/2024 0:00,Consumer,Platinum,27,3.7
+C0290,Customer 290,Female,51,Kuwait,Kuwait City,11/1/2024 0:00,Consumer,Gold,20,4.7
+C0291,Customer 291,Male,58,Saudi Arabia,Dammam,11/10/2024 0:00,Consumer,Platinum,26,4.6
+C0292,Customer 292,Female,42,UAE,Abu Dhabi,5/9/2020 0:00,Consumer,Silver,44,4.5
+C0293,Customer 293,Male,33,Oman,Muscat,8/30/2021 0:00,Corporate,Gold,7,3.8
+C0294,Customer 294,Male,32,UAE,Dubai,4/16/2022 0:00,SMB,Gold,4,3.5
+C0295,Customer 295,Male,54,Oman,Muscat,1/28/2025 0:00,SMB,Platinum,16,3.7
+C0296,Customer 296,Male,28,Qatar,Doha,5/24/2025 0:00,SMB,Silver,35,4.7
+C0297,Customer 297,Female,39,Qatar,Doha,2/8/2024 0:00,Consumer,Gold,34,3.1
+C0298,Customer 298,Female,20,Oman,Muscat,4/27/2025 0:00,Consumer,Platinum,15,3.1
+C0299,Customer 299,Female,27,Qatar,Doha,8/8/2021 0:00,SMB,Platinum,18,3.1
+C0300,Customer 300,Male,26,Bahrain,Manama,2/16/2024 0:00,Corporate,Platinum,11,4
+C0301,Customer 301,Male,35,Qatar,Doha,12/12/2025 0:00,Corporate,Silver,22,4.5
+C0302,Customer 302,Male,59,Kuwait,Kuwait City,7/4/2024 0:00,Corporate,Silver,46,4.2
+C0303,Customer 303,Female,55,Oman,Muscat,5/31/2024 0:00,Consumer,Gold,19,4.1
+C0304,Customer 304,Female,54,Bahrain,Manama,3/8/2020 0:00,Corporate,Gold,8,4.8
+C0305,Customer 305,Male,63,Kuwait,Kuwait City,8/30/2021 0:00,Consumer,Gold,16,4.4
+C0306,Customer 306,Male,53,UAE,Dubai,11/18/2025 0:00,Consumer,Silver,7,4.5
+C0307,Customer 307,Female,63,Kuwait,Kuwait City,6/20/2021 0:00,Corporate,Silver,1,5
+C0308,Customer 308,Male,23,Bahrain,Manama,8/30/2025 0:00,Corporate,Silver,27,4.8
+C0309,Customer 309,Male,28,Kuwait,Kuwait City,4/25/2020 0:00,Corporate,Silver,41,3.1
+C0310,Customer 310,Female,32,Oman,Muscat,1/2/2022 0:00,SMB,Platinum,48,3.6
+C0311,Customer 311,Male,26,Oman,Muscat,9/6/2023 0:00,Corporate,Platinum,22,3.8
+C0312,Customer 312,Male,48,UAE,Abu Dhabi,4/13/2024 0:00,SMB,Silver,43,3.1
+C0313,Customer 313,Male,34,UAE,Dubai,11/16/2024 0:00,Corporate,Gold,47,4.5
+C0314,Customer 314,Female,42,Oman,Muscat,1/1/2022 0:00,Consumer,Platinum,24,4.8
+C0315,Customer 315,Female,46,UAE,Dubai,7/12/2023 0:00,Corporate,Gold,15,4.4
+C0316,Customer 316,Female,36,UAE,Dubai,5/13/2024 0:00,Consumer,Gold,40,4.7
+C0317,Customer 317,Male,59,Bahrain,Manama,3/27/2023 0:00,Consumer,Gold,49,5
+C0318,Customer 318,Female,65,UAE,Abu Dhabi,7/9/2025 0:00,SMB,Gold,34,4.6
+C0319,Customer 319,Male,33,Kuwait,Kuwait City,5/27/2020 0:00,SMB,Platinum,12,3.9
+C0320,Customer 320,Male,54,Qatar,Doha,5/28/2023 0:00,SMB,Platinum,40,4.5
+C0321,Customer 321,Male,62,Bahrain,Manama,12/11/2020 0:00,Corporate,Silver,33,4.3
+C0322,Customer 322,Male,36,UAE,Abu Dhabi,5/12/2025 0:00,Corporate,Silver,36,3.2
+C0323,Customer 323,Male,27,UAE,Abu Dhabi,7/27/2020 0:00,Corporate,Gold,18,4.8
+C0324,Customer 324,Female,60,Saudi Arabia,Riyadh,12/9/2021 0:00,SMB,Gold,18,4.4
+C0325,Customer 325,Male,35,Oman,Muscat,7/27/2023 0:00,SMB,Silver,45,4.6
+C0326,Customer 326,Female,33,Oman,Muscat,9/12/2024 0:00,Consumer,Gold,20,3.1
+C0327,Customer 327,Male,18,Kuwait,Kuwait City,6/29/2020 0:00,Corporate,Silver,50,4.8
+C0328,Customer 328,Female,51,Qatar,Doha,10/24/2025 0:00,Consumer,Silver,24,4.6
+C0329,Customer 329,Male,22,Bahrain,Manama,4/17/2024 0:00,SMB,Silver,32,4
+C0330,Customer 330,Female,58,Kuwait,Kuwait City,10/30/2022 0:00,SMB,Platinum,22,3.3
+C0331,Customer 331,Female,65,UAE,Dubai,6/18/2024 0:00,SMB,Gold,40,4.4
+C0332,Customer 332,Female,42,UAE,Abu Dhabi,7/16/2022 0:00,Corporate,Silver,27,3.1
+C0333,Customer 333,Male,63,Oman,Muscat,9/19/2023 0:00,Corporate,Silver,17,4.8
+C0334,Customer 334,Female,49,UAE,Dubai,10/11/2021 0:00,Consumer,Platinum,26,4.9
+C0335,Customer 335,Male,49,Saudi Arabia,Dammam,5/22/2022 0:00,Corporate,Silver,8,4.9
+C0336,Customer 336,Male,18,Qatar,Doha,4/6/2021 0:00,Consumer,Gold,7,3.6
+C0337,Customer 337,Male,18,Saudi Arabia,Jeddah,4/18/2022 0:00,Consumer,Silver,23,3.3
+C0338,Customer 338,Male,18,Bahrain,Manama,6/27/2023 0:00,Consumer,Gold,33,4
+C0339,Customer 339,Female,39,Kuwait,Kuwait City,7/24/2022 0:00,Consumer,Gold,13,5
+C0340,Customer 340,Male,60,UAE,Dubai,3/10/2025 0:00,SMB,Platinum,6,4
+C0341,Customer 341,Male,23,Oman,Muscat,10/6/2025 0:00,Consumer,Silver,13,3.4
+C0342,Customer 342,Male,38,UAE,Dubai,4/7/2020 0:00,SMB,Gold,44,4.4
+C0343,Customer 343,Female,33,Kuwait,Kuwait City,2/7/2025 0:00,SMB,Platinum,25,4.3
+C0344,Customer 344,Male,19,UAE,Dubai,12/31/2024 0:00,Corporate,Gold,25,3.5
+C0345,Customer 345,Male,26,Oman,Muscat,2/22/2020 0:00,Consumer,Silver,48,3.8
+C0346,Customer 346,Male,18,Saudi Arabia,Dammam,1/5/2021 0:00,Corporate,Silver,18,4
+C0347,Customer 347,Male,53,Qatar,Doha,12/1/2023 0:00,SMB,Gold,43,4.3
+C0348,Customer 348,Female,49,Saudi Arabia,Jeddah,6/22/2020 0:00,Corporate,Gold,9,3
+C0349,Customer 349,Male,44,Qatar,Doha,7/8/2023 0:00,SMB,Gold,15,3.1
+C0350,Customer 350,Female,25,Bahrain,Manama,11/22/2020 0:00,Consumer,Gold,2,3.5
+C0351,Customer 351,Male,65,Saudi Arabia,Dammam,5/23/2024 0:00,Consumer,Gold,21,3.7
+C0352,Customer 352,Male,30,UAE,Abu Dhabi,9/19/2022 0:00,SMB,Silver,7,3.4
+C0353,Customer 353,Male,27,UAE,Dubai,12/30/2024 0:00,SMB,Gold,39,4.1
+C0354,Customer 354,Female,56,Bahrain,Manama,3/4/2023 0:00,SMB,Silver,49,3.4
+C0355,Customer 355,Female,55,Saudi Arabia,Jeddah,11/28/2022 0:00,Consumer,Silver,4,3.8
+C0356,Customer 356,Male,45,Kuwait,Kuwait City,3/5/2021 0:00,Consumer,Gold,10,4.3
+C0357,Customer 357,Male,19,Saudi Arabia,Riyadh,2/22/2024 0:00,Corporate,Silver,22,4.4
+C0358,Customer 358,Male,30,Bahrain,Manama,4/4/2024 0:00,Corporate,Gold,13,4.2
+C0359,Customer 359,Female,32,Kuwait,Kuwait City,1/15/2023 0:00,SMB,Gold,32,4.4
+C0360,Customer 360,Female,33,Bahrain,Manama,9/16/2023 0:00,SMB,Platinum,13,4
+C0361,Customer 361,Male,25,Qatar,Doha,7/27/2020 0:00,Corporate,Silver,34,4.5
+C0362,Customer 362,Male,50,UAE,Abu Dhabi,10/15/2021 0:00,Corporate,Platinum,22,3.7
+C0363,Customer 363,Female,24,Oman,Muscat,10/22/2023 0:00,Corporate,Silver,38,4.8
+C0364,Customer 364,Female,58,Oman,Muscat,4/1/2025 0:00,SMB,Gold,47,4.5
+C0365,Customer 365,Female,24,Qatar,Doha,9/27/2021 0:00,SMB,Gold,41,4.6
+C0366,Customer 366,Female,30,Saudi Arabia,Riyadh,12/21/2021 0:00,Corporate,Platinum,44,4.5
+C0367,Customer 367,Male,20,UAE,Dubai,10/19/2022 0:00,SMB,Gold,39,4.1
+C0368,Customer 368,Female,33,Oman,Muscat,12/12/2023 0:00,Consumer,Silver,30,4
+C0369,Customer 369,Male,19,Oman,Muscat,1/6/2024 0:00,Corporate,Gold,23,3.3
+C0370,Customer 370,Male,41,UAE,Abu Dhabi,12/9/2021 0:00,Consumer,Platinum,3,4
+C0371,Customer 371,Male,28,Saudi Arabia,Dammam,5/5/2020 0:00,SMB,Silver,20,4.8
+C0372,Customer 372,Male,29,Oman,Muscat,6/19/2021 0:00,SMB,Gold,6,4.4
+C0373,Customer 373,Male,57,Saudi Arabia,Riyadh,10/16/2025 0:00,Consumer,Gold,37,4.6
+C0374,Customer 374,Male,34,Bahrain,Manama,7/31/2023 0:00,SMB,Gold,15,4.8
+C0375,Customer 375,Male,52,Bahrain,Manama,4/29/2021 0:00,Consumer,Gold,9,3
+C0376,Customer 376,Male,57,Bahrain,Manama,9/1/2021 0:00,SMB,Gold,26,4.8
+C0377,Customer 377,Female,45,Saudi Arabia,Riyadh,1/12/2024 0:00,Consumer,Gold,13,3.9
+C0378,Customer 378,Male,50,Qatar,Doha,4/21/2025 0:00,SMB,Platinum,48,4.5
+C0379,Customer 379,Female,34,UAE,Dubai,7/1/2021 0:00,SMB,Gold,35,4.5
+C0380,Customer 380,Female,54,UAE,Abu Dhabi,12/20/2022 0:00,Corporate,Gold,46,4.4
+C0381,Customer 381,Male,46,Saudi Arabia,Riyadh,10/13/2021 0:00,SMB,Gold,29,3.8
+C0382,Customer 382,Male,39,Bahrain,Manama,8/21/2020 0:00,SMB,Platinum,47,4.9
+C0383,Customer 383,Male,32,Qatar,Doha,3/24/2024 0:00,Corporate,Platinum,45,4.9
+C0384,Customer 384,Male,22,UAE,Dubai,9/10/2021 0:00,Consumer,Gold,21,4.6
+C0385,Customer 385,Female,32,Saudi Arabia,Dammam,9/15/2022 0:00,SMB,Gold,21,4.8
+C0386,Customer 386,Male,45,UAE,Abu Dhabi,1/24/2020 0:00,Consumer,Silver,43,5
+C0387,Customer 387,Male,29,Bahrain,Manama,11/30/2024 0:00,Corporate,Gold,28,4.5
+C0388,Customer 388,Female,62,Bahrain,Manama,11/13/2025 0:00,Consumer,Gold,32,3.4
+C0389,Customer 389,Female,36,Bahrain,Manama,3/6/2023 0:00,Corporate,Platinum,1,3.1
+C0390,Customer 390,Male,56,Saudi Arabia,Jeddah,7/6/2023 0:00,SMB,Platinum,36,3.8
+C0391,Customer 391,Male,24,Oman,Muscat,2/2/2025 0:00,SMB,Silver,48,4.5
+C0392,Customer 392,Male,59,Oman,Muscat,6/11/2025 0:00,Corporate,Silver,9,4.1
+C0393,Customer 393,Male,42,Qatar,Doha,1/27/2022 0:00,Consumer,Platinum,12,3.1
+C0394,Customer 394,Female,43,UAE,Dubai,5/16/2022 0:00,SMB,Gold,43,3.4
+C0395,Customer 395,Female,50,Qatar,Doha,12/31/2022 0:00,Corporate,Platinum,37,3.9
+C0396,Customer 396,Male,27,Kuwait,Kuwait City,11/22/2024 0:00,SMB,Silver,1,4.7
+C0397,Customer 397,Male,44,UAE,Dubai,1/28/2022 0:00,Corporate,Platinum,11,4.6
+C0398,Customer 398,Female,32,Saudi Arabia,Riyadh,10/8/2025 0:00,SMB,Gold,21,3.6
+C0399,Customer 399,Male,19,Oman,Muscat,12/27/2023 0:00,Consumer,Platinum,49,3.7
+C0400,Customer 400,Female,24,Kuwait,Kuwait City,4/15/2022 0:00,Corporate,Gold,45,4.6
+C0401,Customer 401,Male,26,Qatar,Doha,2/28/2021 0:00,Corporate,Platinum,5,3.6
+C0402,Customer 402,Female,30,UAE,Dubai,3/21/2020 0:00,Corporate,Silver,4,3
+C0403,Customer 403,Female,31,Saudi Arabia,Jeddah,7/29/2021 0:00,Consumer,Silver,2,3.1
+C0404,Customer 404,Female,21,Saudi Arabia,Riyadh,3/1/2021 0:00,Consumer,Silver,27,4.8
+C0405,Customer 405,Male,58,Kuwait,Kuwait City,8/2/2024 0:00,SMB,Platinum,31,3.3
+C0406,Customer 406,Male,35,UAE,Abu Dhabi,11/16/2024 0:00,Corporate,Silver,43,3
+C0407,Customer 407,Female,37,Saudi Arabia,Jeddah,8/29/2023 0:00,Consumer,Platinum,8,4.8
+C0408,Customer 408,Male,53,UAE,Abu Dhabi,12/17/2022 0:00,Consumer,Gold,28,3.4
+C0409,Customer 409,Male,29,Bahrain,Manama,6/14/2025 0:00,SMB,Gold,47,4.7
+C0410,Customer 410,Male,41,UAE,Dubai,3/23/2024 0:00,Corporate,Gold,14,4.3
+C0411,Customer 411,Male,53,UAE,Dubai,1/11/2023 0:00,Corporate,Platinum,34,4.4
+C0412,Customer 412,Male,63,Bahrain,Manama,8/28/2024 0:00,Corporate,Platinum,31,3.4
+C0413,Customer 413,Female,54,Saudi Arabia,Jeddah,6/12/2024 0:00,Corporate,Silver,33,4.9
+C0414,Customer 414,Female,26,Saudi Arabia,Riyadh,6/5/2022 0:00,Corporate,Platinum,16,3.1
+C0415,Customer 415,Male,23,UAE,Abu Dhabi,9/22/2022 0:00,Corporate,Gold,2,3.9
+C0416,Customer 416,Male,51,Saudi Arabia,Jeddah,2/15/2020 0:00,Consumer,Silver,23,4.8
+C0417,Customer 417,Male,34,Saudi Arabia,Dammam,11/13/2022 0:00,Corporate,Platinum,5,4.5
+C0418,Customer 418,Male,54,Qatar,Doha,9/8/2023 0:00,Corporate,Platinum,17,4
+C0419,Customer 419,Male,53,UAE,Dubai,1/28/2024 0:00,Consumer,Silver,24,3.8
+C0420,Customer 420,Male,65,Oman,Muscat,6/21/2023 0:00,SMB,Silver,26,4.3
+C0421,Customer 421,Male,27,UAE,Abu Dhabi,1/6/2024 0:00,Corporate,Silver,43,4.8
+C0422,Customer 422,Male,29,Saudi Arabia,Riyadh,10/29/2024 0:00,Consumer,Platinum,12,4.5
+C0423,Customer 423,Female,32,Oman,Muscat,8/17/2021 0:00,SMB,Silver,35,4.7
+C0424,Customer 424,Female,58,UAE,Dubai,7/5/2023 0:00,Consumer,Gold,34,3.1
+C0425,Customer 425,Female,30,Qatar,Doha,5/8/2020 0:00,SMB,Platinum,25,4.4
+C0426,Customer 426,Male,30,Oman,Muscat,8/10/2024 0:00,SMB,Silver,15,4.5
+C0427,Customer 427,Male,44,Saudi Arabia,Jeddah,1/21/2025 0:00,SMB,Gold,40,4.5
+C0428,Customer 428,Female,63,Oman,Muscat,4/13/2022 0:00,Consumer,Platinum,24,3.4
+C0429,Customer 429,Male,53,UAE,Dubai,11/9/2021 0:00,Consumer,Silver,33,4.3
+C0430,Customer 430,Female,51,Saudi Arabia,Riyadh,2/22/2023 0:00,SMB,Silver,24,4.2
+C0431,Customer 431,Female,22,Oman,Muscat,9/12/2025 0:00,SMB,Platinum,31,3.5
+C0432,Customer 432,Female,62,Oman,Muscat,12/24/2020 0:00,Corporate,Silver,38,3.5
+C0433,Customer 433,Female,34,Qatar,Doha,12/9/2024 0:00,SMB,Silver,45,3.9
+C0434,Customer 434,Male,43,Kuwait,Kuwait City,5/21/2021 0:00,Consumer,Platinum,2,3.6
+C0435,Customer 435,Male,40,Oman,Muscat,12/3/2020 0:00,SMB,Gold,32,4.6
+C0436,Customer 436,Female,19,Kuwait,Kuwait City,6/6/2023 0:00,Consumer,Platinum,19,4.6
+C0437,Customer 437,Female,23,Saudi Arabia,Jeddah,7/30/2025 0:00,Corporate,Silver,25,4.7
+C0438,Customer 438,Male,46,Oman,Muscat,4/1/2022 0:00,SMB,Silver,25,4
+C0439,Customer 439,Male,25,UAE,Abu Dhabi,8/12/2023 0:00,SMB,Silver,43,3.9
+C0440,Customer 440,Male,46,Saudi Arabia,Dammam,1/16/2021 0:00,Consumer,Silver,35,3.9
+C0441,Customer 441,Female,56,Kuwait,Kuwait City,5/22/2021 0:00,Corporate,Silver,42,4.1
+C0442,Customer 442,Female,23,Oman,Muscat,10/3/2025 0:00,Corporate,Gold,16,4.8
+C0443,Customer 443,Female,64,UAE,Abu Dhabi,10/2/2020 0:00,Consumer,Gold,48,4.2
+C0444,Customer 444,Male,24,Qatar,Doha,6/17/2025 0:00,SMB,Gold,5,4.5
+C0445,Customer 445,Female,21,Kuwait,Kuwait City,4/25/2022 0:00,SMB,Silver,18,4.9
+C0446,Customer 446,Female,36,Kuwait,Kuwait City,11/7/2024 0:00,SMB,Gold,30,3.7
+C0447,Customer 447,Male,40,Bahrain,Manama,1/18/2022 0:00,Consumer,Silver,46,4.7
+C0448,Customer 448,Male,61,Oman,Muscat,11/15/2022 0:00,SMB,Silver,44,4.9
+C0449,Customer 449,Female,53,Bahrain,Manama,5/11/2025 0:00,Corporate,Gold,9,3.2
+C0450,Customer 450,Female,48,Kuwait,Kuwait City,10/14/2023 0:00,Corporate,Platinum,10,4.4
+C0451,Customer 451,Female,27,Qatar,Doha,3/8/2023 0:00,Consumer,Gold,18,5
+C0452,Customer 452,Female,18,Bahrain,Manama,7/10/2021 0:00,Corporate,Platinum,10,3.5
+C0453,Customer 453,Female,64,Bahrain,Manama,7/26/2023 0:00,Consumer,Platinum,13,4
+C0454,Customer 454,Male,53,Oman,Muscat,3/14/2025 0:00,SMB,Gold,41,3.7
+C0455,Customer 455,Male,46,Bahrain,Manama,1/21/2024 0:00,Consumer,Gold,39,4.2
+C0456,Customer 456,Male,36,Kuwait,Kuwait City,9/9/2024 0:00,Consumer,Gold,11,3.3
+C0457,Customer 457,Female,54,Bahrain,Manama,3/18/2024 0:00,SMB,Platinum,33,4.3
+C0458,Customer 458,Female,50,Saudi Arabia,Jeddah,2/5/2024 0:00,Corporate,Silver,46,3.5
+C0459,Customer 459,Female,64,Saudi Arabia,Riyadh,10/7/2023 0:00,Corporate,Gold,28,4.4
+C0460,Customer 460,Male,51,Qatar,Doha,11/1/2021 0:00,SMB,Platinum,11,3
+C0461,Customer 461,Male,25,UAE,Abu Dhabi,7/3/2025 0:00,SMB,Gold,26,4.6
+C0462,Customer 462,Female,21,UAE,Abu Dhabi,6/8/2024 0:00,Consumer,Gold,35,3.5
+C0463,Customer 463,Male,65,Oman,Muscat,4/17/2023 0:00,Corporate,Gold,46,4.9
+C0464,Customer 464,Male,20,Saudi Arabia,Dammam,5/6/2021 0:00,Corporate,Gold,15,3.9
+C0465,Customer 465,Female,27,Kuwait,Kuwait City,3/16/2023 0:00,Corporate,Platinum,18,4.9
+C0466,Customer 466,Male,19,Qatar,Doha,12/6/2023 0:00,Corporate,Platinum,3,3.6
+C0467,Customer 467,Male,42,Saudi Arabia,Jeddah,10/28/2022 0:00,Corporate,Silver,13,3.5
+C0468,Customer 468,Female,29,Bahrain,Manama,6/22/2023 0:00,Corporate,Silver,5,3.6
+C0469,Customer 469,Male,24,Kuwait,Kuwait City,11/2/2023 0:00,Consumer,Gold,19,4.9
+C0470,Customer 470,Female,52,UAE,Abu Dhabi,5/22/2024 0:00,SMB,Platinum,32,3.4
+C0471,Customer 471,Female,47,Bahrain,Manama,10/3/2023 0:00,Corporate,Gold,12,4.8
+C0472,Customer 472,Male,60,Bahrain,Manama,9/25/2022 0:00,SMB,Silver,7,4.1
+C0473,Customer 473,Female,25,UAE,Dubai,5/3/2022 0:00,Corporate,Platinum,6,3.1
+C0474,Customer 474,Female,38,UAE,Dubai,11/2/2021 0:00,SMB,Gold,1,3.3
+C0475,Customer 475,Male,34,UAE,Dubai,12/19/2022 0:00,SMB,Silver,47,3.5
+C0476,Customer 476,Male,58,Kuwait,Kuwait City,3/2/2021 0:00,SMB,Gold,47,3.2
+C0477,Customer 477,Female,28,Qatar,Doha,10/31/2024 0:00,Corporate,Gold,19,4.2
+C0478,Customer 478,Male,60,Bahrain,Manama,10/10/2024 0:00,SMB,Silver,33,3.5
+C0479,Customer 479,Male,18,Oman,Muscat,4/9/2021 0:00,Corporate,Silver,42,4.2
+C0480,Customer 480,Female,26,UAE,Abu Dhabi,11/27/2021 0:00,SMB,Platinum,15,4.1
+C0481,Customer 481,Female,57,UAE,Dubai,7/16/2021 0:00,Consumer,Gold,8,4
+C0482,Customer 482,Female,26,UAE,Abu Dhabi,3/27/2024 0:00,Corporate,Silver,33,3.8
+C0483,Customer 483,Male,41,Kuwait,Kuwait City,5/1/2024 0:00,Consumer,Gold,50,3.1
+C0484,Customer 484,Male,38,Saudi Arabia,Riyadh,11/5/2021 0:00,Corporate,Silver,19,3.4
+C0485,Customer 485,Female,31,Saudi Arabia,Riyadh,8/11/2020 0:00,Consumer,Silver,26,4.6
+C0486,Customer 486,Male,21,Saudi Arabia,Dammam,11/20/2020 0:00,Consumer,Platinum,3,3.9
+C0487,Customer 487,Male,21,Qatar,Doha,2/17/2021 0:00,SMB,Silver,13,3.9
+C0488,Customer 488,Male,37,Oman,Muscat,6/27/2023 0:00,Consumer,Platinum,10,3.7
+C0489,Customer 489,Male,21,Oman,Muscat,6/22/2022 0:00,SMB,Silver,14,4.2
+C0490,Customer 490,Female,20,UAE,Dubai,4/28/2025 0:00,Corporate,Gold,6,3.1
+C0491,Customer 491,Female,22,Oman,Muscat,6/23/2022 0:00,Consumer,Platinum,20,4.9
+C0492,Customer 492,Male,64,Saudi Arabia,Dammam,6/14/2020 0:00,SMB,Gold,11,3.9
+C0493,Customer 493,Female,55,Bahrain,Manama,8/29/2023 0:00,Consumer,Platinum,18,3
+C0494,Customer 494,Male,38,Saudi Arabia,Dammam,11/2/2025 0:00,SMB,Gold,37,4.4
+C0495,Customer 495,Female,51,Qatar,Doha,7/16/2024 0:00,Corporate,Platinum,19,3.4
+C0496,Customer 496,Male,22,Saudi Arabia,Jeddah,3/22/2025 0:00,Corporate,Gold,27,4
+C0497,Customer 497,Male,43,Oman,Muscat,9/23/2024 0:00,Corporate,Silver,39,3.1
+C0498,Customer 498,Male,64,Qatar,Doha,12/22/2025 0:00,Corporate,Gold,2,4
+C0499,Customer 499,Female,31,Oman,Muscat,2/18/2023 0:00,SMB,Platinum,38,3.6
+C0500,Customer 500,Female,28,Kuwait,Kuwait City,6/21/2020 0:00,SMB,Platinum,3,4.3
+C0501,Customer 501,Male,36,Oman,Muscat,8/24/2023 0:00,Consumer,Platinum,12,4.2
+C0502,Customer 502,Female,64,Saudi Arabia,Riyadh,1/30/2025 0:00,Consumer,Platinum,38,4.9
+C0503,Customer 503,Male,44,Qatar,Doha,4/2/2025 0:00,Consumer,Silver,22,4.8
+C0504,Customer 504,Male,33,Kuwait,Kuwait City,9/11/2022 0:00,SMB,Platinum,14,3.7
+C0505,Customer 505,Female,55,Oman,Muscat,3/24/2023 0:00,Consumer,Gold,47,3.3
+C0506,Customer 506,Female,38,Qatar,Doha,3/31/2021 0:00,Consumer,Platinum,28,4.6
+C0507,Customer 507,Female,43,Bahrain,Manama,5/28/2021 0:00,SMB,Silver,14,3.6
+C0508,Customer 508,Female,55,Saudi Arabia,Riyadh,12/10/2023 0:00,Consumer,Silver,34,3.5
+C0509,Customer 509,Male,25,UAE,Dubai,9/10/2025 0:00,Consumer,Gold,34,3.4
+C0510,Customer 510,Female,19,Qatar,Doha,4/4/2021 0:00,Consumer,Silver,29,4.4
+C0511,Customer 511,Male,25,Kuwait,Kuwait City,1/15/2020 0:00,Corporate,Gold,4,3.4
+C0512,Customer 512,Female,48,Saudi Arabia,Riyadh,6/14/2023 0:00,SMB,Gold,47,4.2
+C0513,Customer 513,Male,29,UAE,Abu Dhabi,7/2/2025 0:00,SMB,Platinum,7,5
+C0514,Customer 514,Female,20,Qatar,Doha,7/12/2023 0:00,Consumer,Gold,6,4.1
+C0515,Customer 515,Female,51,Oman,Muscat,4/2/2022 0:00,SMB,Gold,33,4.9
+C0516,Customer 516,Female,61,Bahrain,Manama,11/3/2020 0:00,Consumer,Silver,48,3.2
+C0517,Customer 517,Female,25,Kuwait,Kuwait City,8/16/2024 0:00,Consumer,Platinum,42,4.6
+C0518,Customer 518,Male,43,Kuwait,Kuwait City,6/24/2025 0:00,Corporate,Gold,47,4.9
+C0519,Customer 519,Female,55,Kuwait,Kuwait City,6/14/2021 0:00,Consumer,Gold,2,4.4
+C0520,Customer 520,Male,50,Bahrain,Manama,6/29/2021 0:00,Corporate,Gold,14,4.2
+C0521,Customer 521,Female,30,Kuwait,Kuwait City,1/7/2023 0:00,Corporate,Silver,32,4.9
+C0522,Customer 522,Male,51,Saudi Arabia,Riyadh,4/10/2023 0:00,Corporate,Silver,12,3.1
+C0523,Customer 523,Female,32,UAE,Abu Dhabi,11/15/2025 0:00,SMB,Gold,31,3.5
+C0524,Customer 524,Female,37,Oman,Muscat,7/6/2020 0:00,Consumer,Platinum,37,4
+C0525,Customer 525,Female,38,Qatar,Doha,8/26/2022 0:00,SMB,Platinum,47,4.8
+C0526,Customer 526,Male,64,UAE,Abu Dhabi,5/20/2024 0:00,SMB,Platinum,20,3.7
+C0527,Customer 527,Male,30,UAE,Dubai,7/11/2020 0:00,Corporate,Silver,41,4.2
+C0528,Customer 528,Male,60,Bahrain,Manama,7/31/2022 0:00,Corporate,Gold,12,3.5
+C0529,Customer 529,Female,36,UAE,Dubai,7/10/2025 0:00,SMB,Gold,28,4.1
+C0530,Customer 530,Female,55,Saudi Arabia,Dammam,5/26/2021 0:00,Consumer,Silver,33,4.9
+C0531,Customer 531,Male,47,Kuwait,Kuwait City,9/29/2021 0:00,Consumer,Gold,29,3.7
+C0532,Customer 532,Male,45,Kuwait,Kuwait City,8/22/2022 0:00,Consumer,Gold,3,3.9
+C0533,Customer 533,Female,64,Qatar,Doha,4/6/2025 0:00,SMB,Silver,13,3.3
+C0534,Customer 534,Male,51,Kuwait,Kuwait City,2/26/2023 0:00,Consumer,Platinum,20,4.7
+C0535,Customer 535,Female,62,Oman,Muscat,12/20/2025 0:00,Corporate,Gold,23,3.3
+C0536,Customer 536,Female,32,Qatar,Doha,5/7/2021 0:00,SMB,Platinum,41,4.9
+C0537,Customer 537,Male,19,Kuwait,Kuwait City,4/5/2020 0:00,SMB,Platinum,46,4.4
+C0538,Customer 538,Female,47,Oman,Muscat,6/30/2022 0:00,Consumer,Gold,8,3.7
+C0539,Customer 539,Male,59,UAE,Abu Dhabi,3/20/2024 0:00,SMB,Gold,10,4.5
+C0540,Customer 540,Female,23,UAE,Abu Dhabi,7/8/2022 0:00,Corporate,Gold,34,4.3
+C0541,Customer 541,Male,23,Bahrain,Manama,4/20/2021 0:00,Consumer,Platinum,9,4.8
+C0542,Customer 542,Male,42,Oman,Muscat,2/26/2021 0:00,SMB,Gold,16,5
+C0543,Customer 543,Female,31,Oman,Muscat,12/26/2024 0:00,Consumer,Silver,36,4.7
+C0544,Customer 544,Male,21,Saudi Arabia,Dammam,10/26/2020 0:00,Consumer,Platinum,11,3.5
+C0545,Customer 545,Female,27,UAE,Abu Dhabi,8/5/2025 0:00,Consumer,Silver,48,4
+C0546,Customer 546,Male,65,Oman,Muscat,2/26/2022 0:00,Consumer,Silver,46,3.7
+C0547,Customer 547,Female,37,Oman,Muscat,12/25/2020 0:00,SMB,Silver,34,4.1
+C0548,Customer 548,Female,39,Saudi Arabia,Dammam,3/5/2021 0:00,Consumer,Gold,12,4
+C0549,Customer 549,Female,30,Qatar,Doha,7/15/2023 0:00,Corporate,Silver,35,3.7
+C0550,Customer 550,Female,42,Kuwait,Kuwait City,4/26/2024 0:00,SMB,Silver,36,4.8
+C0551,Customer 551,Female,56,Bahrain,Manama,1/22/2020 0:00,Corporate,Platinum,33,4.4
+C0552,Customer 552,Male,54,Oman,Muscat,12/19/2020 0:00,Corporate,Silver,7,3.7
+C0553,Customer 553,Female,56,Kuwait,Kuwait City,7/30/2025 0:00,Consumer,Silver,22,4.8
+C0554,Customer 554,Male,55,Bahrain,Manama,5/12/2024 0:00,Consumer,Platinum,12,4.5
+C0555,Customer 555,Male,63,Oman,Muscat,11/20/2023 0:00,SMB,Gold,27,4.5
+C0556,Customer 556,Male,31,Kuwait,Kuwait City,9/11/2025 0:00,SMB,Gold,19,3.7
+C0557,Customer 557,Male,65,Saudi Arabia,Jeddah,10/18/2023 0:00,SMB,Platinum,36,4.3
+C0558,Customer 558,Male,24,Kuwait,Kuwait City,7/19/2022 0:00,SMB,Platinum,29,4.7
+C0559,Customer 559,Male,60,Qatar,Doha,7/8/2023 0:00,Consumer,Gold,11,4.5
+C0560,Customer 560,Male,39,Kuwait,Kuwait City,6/2/2020 0:00,Consumer,Gold,9,4.3
+C0561,Customer 561,Female,39,Kuwait,Kuwait City,8/15/2022 0:00,Consumer,Platinum,3,4.3
+C0562,Customer 562,Male,34,Saudi Arabia,Jeddah,6/7/2020 0:00,Corporate,Silver,27,3.7
+C0563,Customer 563,Male,49,Bahrain,Manama,3/27/2023 0:00,Corporate,Silver,22,4.8
+C0564,Customer 564,Male,41,Qatar,Doha,10/22/2024 0:00,Consumer,Gold,50,4.5
+C0565,Customer 565,Male,63,Bahrain,Manama,6/7/2021 0:00,Corporate,Platinum,24,4.5
+C0566,Customer 566,Female,60,Saudi Arabia,Dammam,9/29/2024 0:00,SMB,Gold,30,4.4
+C0567,Customer 567,Female,58,Oman,Muscat,8/30/2021 0:00,SMB,Platinum,24,3.1
+C0568,Customer 568,Male,31,UAE,Abu Dhabi,6/9/2023 0:00,Corporate,Platinum,23,4.7
+C0569,Customer 569,Male,45,Kuwait,Kuwait City,4/8/2022 0:00,Corporate,Platinum,30,3.3
+C0570,Customer 570,Female,52,UAE,Dubai,7/28/2022 0:00,Corporate,Platinum,36,3.1
+C0571,Customer 571,Female,34,Kuwait,Kuwait City,8/19/2021 0:00,Corporate,Gold,26,4.1
+C0572,Customer 572,Male,65,Kuwait,Kuwait City,12/17/2022 0:00,Consumer,Silver,12,4.9
+C0573,Customer 573,Male,32,Oman,Muscat,10/10/2022 0:00,Corporate,Gold,10,4.2
+C0574,Customer 574,Male,30,UAE,Dubai,2/8/2025 0:00,Consumer,Silver,13,4.7
+C0575,Customer 575,Female,21,Oman,Muscat,10/7/2023 0:00,Consumer,Platinum,33,3.1
+C0576,Customer 576,Female,42,Saudi Arabia,Jeddah,6/12/2020 0:00,Consumer,Platinum,36,4.8
+C0577,Customer 577,Male,55,Kuwait,Kuwait City,11/1/2021 0:00,SMB,Platinum,41,5
+C0578,Customer 578,Male,44,Kuwait,Kuwait City,12/24/2022 0:00,Consumer,Platinum,5,4.4
+C0579,Customer 579,Male,48,UAE,Dubai,11/13/2022 0:00,SMB,Platinum,30,3.7
+C0580,Customer 580,Male,25,Oman,Muscat,5/16/2025 0:00,Corporate,Silver,6,4.9
+C0581,Customer 581,Female,20,Qatar,Doha,2/22/2022 0:00,Consumer,Platinum,25,3.7
+C0582,Customer 582,Male,59,UAE,Abu Dhabi,6/22/2023 0:00,Corporate,Gold,16,3.3
+C0583,Customer 583,Male,63,UAE,Dubai,8/12/2024 0:00,Consumer,Platinum,21,3.2
+C0584,Customer 584,Female,24,UAE,Abu Dhabi,5/21/2021 0:00,SMB,Silver,47,3.5
+C0585,Customer 585,Male,22,Saudi Arabia,Dammam,9/26/2021 0:00,SMB,Gold,40,3.8
+C0586,Customer 586,Female,54,UAE,Dubai,6/20/2021 0:00,SMB,Platinum,5,3.1
+C0587,Customer 587,Female,65,Kuwait,Kuwait City,10/7/2020 0:00,Consumer,Silver,40,4.9
+C0588,Customer 588,Female,60,UAE,Abu Dhabi,12/28/2025 0:00,Corporate,Platinum,43,3.1
+C0589,Customer 589,Male,34,UAE,Abu Dhabi,12/25/2024 0:00,SMB,Gold,17,3.5
+C0590,Customer 590,Female,30,Bahrain,Manama,8/30/2025 0:00,Consumer,Platinum,16,3.5
+C0591,Customer 591,Male,49,Saudi Arabia,Riyadh,5/3/2023 0:00,SMB,Platinum,22,3.3
+C0592,Customer 592,Male,64,Qatar,Doha,3/26/2023 0:00,Corporate,Platinum,7,3.1
+C0593,Customer 593,Female,20,UAE,Dubai,7/22/2025 0:00,SMB,Gold,9,3.2
+C0594,Customer 594,Male,39,UAE,Abu Dhabi,9/29/2021 0:00,SMB,Platinum,47,3.3
+C0595,Customer 595,Male,42,UAE,Abu Dhabi,7/15/2020 0:00,Consumer,Platinum,50,3.9
+C0596,Customer 596,Male,52,Qatar,Doha,2/14/2020 0:00,Consumer,Silver,48,4.2
+C0597,Customer 597,Male,30,Oman,Muscat,3/21/2021 0:00,Corporate,Silver,19,3.6
+C0598,Customer 598,Male,18,Qatar,Doha,8/9/2023 0:00,SMB,Gold,35,3.5
+C0599,Customer 599,Female,42,Kuwait,Kuwait City,12/21/2020 0:00,SMB,Silver,22,3.8
+C0600,Customer 600,Female,40,Qatar,Doha,4/21/2021 0:00,Corporate,Silver,33,4.2
+C0601,Customer 601,Male,63,Saudi Arabia,Dammam,11/12/2022 0:00,Consumer,Platinum,16,3.5
+C0602,Customer 602,Female,20,Qatar,Doha,1/14/2025 0:00,Corporate,Silver,30,4.5
+C0603,Customer 603,Female,58,UAE,Abu Dhabi,3/10/2024 0:00,SMB,Silver,50,5
+C0604,Customer 604,Male,26,Saudi Arabia,Riyadh,5/14/2020 0:00,SMB,Gold,41,3.5
+C0605,Customer 605,Male,56,Kuwait,Kuwait City,12/27/2025 0:00,SMB,Platinum,13,3.4
+C0606,Customer 606,Male,25,Oman,Muscat,3/9/2024 0:00,SMB,Platinum,20,3.2
+C0607,Customer 607,Female,30,Saudi Arabia,Jeddah,9/22/2021 0:00,SMB,Silver,12,4.2
+C0608,Customer 608,Male,24,Oman,Muscat,4/6/2020 0:00,Consumer,Platinum,44,4
+C0609,Customer 609,Female,36,Qatar,Doha,4/24/2025 0:00,Consumer,Gold,3,3.3
+C0610,Customer 610,Male,51,Kuwait,Kuwait City,8/21/2025 0:00,Corporate,Gold,48,3.4
+C0611,Customer 611,Female,53,Oman,Muscat,8/12/2022 0:00,Consumer,Gold,26,3
+C0612,Customer 612,Female,45,Bahrain,Manama,7/19/2024 0:00,Corporate,Silver,40,4.2
+C0613,Customer 613,Female,55,Bahrain,Manama,11/3/2021 0:00,Corporate,Silver,12,3.9
+C0614,Customer 614,Male,35,Saudi Arabia,Riyadh,10/8/2020 0:00,Corporate,Platinum,3,3.9
+C0615,Customer 615,Male,54,Saudi Arabia,Riyadh,6/19/2020 0:00,Consumer,Gold,23,4.2
+C0616,Customer 616,Female,49,Bahrain,Manama,1/11/2023 0:00,Consumer,Platinum,41,3.5
+C0617,Customer 617,Male,56,Bahrain,Manama,3/12/2020 0:00,Consumer,Silver,12,4.5
+C0618,Customer 618,Female,41,Qatar,Doha,3/30/2024 0:00,Corporate,Silver,25,4.6
+C0619,Customer 619,Male,35,Qatar,Doha,9/8/2025 0:00,Consumer,Platinum,50,3
+C0620,Customer 620,Male,58,Kuwait,Kuwait City,1/12/2022 0:00,SMB,Gold,25,3.1
+C0621,Customer 621,Male,52,Oman,Muscat,8/22/2024 0:00,Corporate,Gold,6,3.5
+C0622,Customer 622,Male,22,Saudi Arabia,Riyadh,1/23/2020 0:00,SMB,Silver,10,3.2
+C0623,Customer 623,Female,60,Oman,Muscat,8/29/2021 0:00,Consumer,Gold,1,3.8
+C0624,Customer 624,Female,33,Saudi Arabia,Dammam,7/9/2024 0:00,Consumer,Gold,37,3.4
+C0625,Customer 625,Female,41,UAE,Dubai,9/19/2022 0:00,SMB,Gold,9,4
+C0626,Customer 626,Male,30,Oman,Muscat,6/8/2020 0:00,Consumer,Silver,26,3.4
+C0627,Customer 627,Male,44,Kuwait,Kuwait City,1/17/2022 0:00,Corporate,Platinum,22,4.6
+C0628,Customer 628,Female,65,Oman,Muscat,4/28/2025 0:00,SMB,Gold,21,4.9
+C0629,Customer 629,Female,20,Bahrain,Manama,11/1/2025 0:00,Consumer,Platinum,14,3.5
+C0630,Customer 630,Female,42,Kuwait,Kuwait City,5/14/2022 0:00,Consumer,Silver,25,4.2
+C0631,Customer 631,Male,50,Saudi Arabia,Dammam,12/6/2024 0:00,Corporate,Platinum,12,3.7
+C0632,Customer 632,Female,54,Oman,Muscat,9/12/2020 0:00,Corporate,Platinum,8,3.3
+C0633,Customer 633,Female,32,Qatar,Doha,8/25/2021 0:00,Consumer,Silver,16,4.6
+C0634,Customer 634,Male,52,Kuwait,Kuwait City,5/12/2020 0:00,SMB,Gold,18,4.5
+C0635,Customer 635,Male,18,Qatar,Doha,5/24/2022 0:00,Corporate,Platinum,5,4.9
+C0636,Customer 636,Female,62,Qatar,Doha,10/23/2021 0:00,SMB,Silver,15,3.9
+C0637,Customer 637,Male,59,Oman,Muscat,2/6/2020 0:00,SMB,Gold,44,4.1
+C0638,Customer 638,Male,36,UAE,Abu Dhabi,8/8/2023 0:00,SMB,Platinum,10,3.8
+C0639,Customer 639,Female,65,UAE,Abu Dhabi,7/9/2020 0:00,SMB,Platinum,41,3.1
+C0640,Customer 640,Male,18,Kuwait,Kuwait City,1/5/2021 0:00,Corporate,Gold,20,3.5
+C0641,Customer 641,Female,25,Bahrain,Manama,1/2/2023 0:00,SMB,Platinum,11,4.9
+C0642,Customer 642,Male,22,Qatar,Doha,8/5/2020 0:00,Corporate,Gold,38,3.4
+C0643,Customer 643,Male,40,Oman,Muscat,3/9/2022 0:00,Corporate,Platinum,31,3.9
+C0644,Customer 644,Male,37,Bahrain,Manama,11/4/2025 0:00,Corporate,Gold,49,3.4
+C0645,Customer 645,Male,53,Bahrain,Manama,1/8/2025 0:00,Corporate,Silver,30,3.4
+C0646,Customer 646,Female,50,UAE,Dubai,7/13/2023 0:00,SMB,Gold,13,3.1
+C0647,Customer 647,Male,29,UAE,Dubai,12/9/2022 0:00,Consumer,Silver,49,4.5
+C0648,Customer 648,Male,21,Bahrain,Manama,10/14/2021 0:00,Consumer,Gold,34,4.1
+C0649,Customer 649,Female,57,Kuwait,Kuwait City,11/5/2020 0:00,SMB,Silver,42,4.6
+C0650,Customer 650,Male,63,Oman,Muscat,6/29/2021 0:00,Consumer,Gold,8,4
+C0651,Customer 651,Female,49,Saudi Arabia,Jeddah,4/27/2020 0:00,Corporate,Platinum,32,4.2
+C0652,Customer 652,Male,59,Qatar,Doha,11/18/2021 0:00,Consumer,Silver,20,3.5
+C0653,Customer 653,Male,42,Bahrain,Manama,9/10/2023 0:00,Corporate,Silver,6,4.4
+C0654,Customer 654,Male,50,UAE,Dubai,9/1/2024 0:00,Corporate,Silver,48,3.7
+C0655,Customer 655,Female,47,Qatar,Doha,11/13/2021 0:00,Consumer,Platinum,14,3.1
+C0656,Customer 656,Female,55,Oman,Muscat,8/17/2021 0:00,Corporate,Silver,26,4.9
+C0657,Customer 657,Female,31,Bahrain,Manama,9/24/2022 0:00,SMB,Gold,27,3
+C0658,Customer 658,Male,38,Bahrain,Manama,6/25/2021 0:00,Consumer,Gold,44,4.3
+C0659,Customer 659,Female,32,UAE,Abu Dhabi,7/10/2020 0:00,Corporate,Platinum,7,4.2
+C0660,Customer 660,Female,37,Qatar,Doha,3/12/2021 0:00,Consumer,Silver,37,3.5
+C0661,Customer 661,Male,23,UAE,Abu Dhabi,5/9/2021 0:00,Consumer,Gold,5,3.2
+C0662,Customer 662,Male,29,UAE,Abu Dhabi,4/23/2022 0:00,Corporate,Silver,5,4
+C0663,Customer 663,Female,61,Oman,Muscat,10/3/2020 0:00,SMB,Platinum,19,3.5
+C0664,Customer 664,Female,49,Saudi Arabia,Jeddah,2/3/2021 0:00,SMB,Gold,50,3.3
+C0665,Customer 665,Male,49,Oman,Muscat,8/23/2024 0:00,SMB,Silver,15,4.5
+C0666,Customer 666,Male,59,UAE,Dubai,9/4/2022 0:00,Corporate,Silver,18,4.7
+C0667,Customer 667,Female,57,Saudi Arabia,Dammam,11/22/2022 0:00,Consumer,Gold,45,4.9
+C0668,Customer 668,Female,29,Qatar,Doha,4/18/2021 0:00,Consumer,Silver,14,3.9
+C0669,Customer 669,Male,34,Qatar,Doha,5/30/2021 0:00,Corporate,Silver,13,4
+C0670,Customer 670,Male,25,Bahrain,Manama,2/7/2025 0:00,Corporate,Platinum,19,3.2
+C0671,Customer 671,Female,53,Bahrain,Manama,2/13/2020 0:00,Corporate,Platinum,22,3.5
+C0672,Customer 672,Male,52,UAE,Dubai,2/20/2025 0:00,SMB,Platinum,32,4.8
+C0673,Customer 673,Male,57,Kuwait,Kuwait City,3/2/2021 0:00,Corporate,Platinum,46,3.8
+C0674,Customer 674,Male,46,Kuwait,Kuwait City,11/10/2021 0:00,Consumer,Silver,11,3.4
+C0675,Customer 675,Female,18,Oman,Muscat,12/11/2023 0:00,SMB,Silver,22,4.9
+C0676,Customer 676,Male,25,Saudi Arabia,Riyadh,7/4/2020 0:00,Corporate,Gold,50,4.6
+C0677,Customer 677,Female,41,Bahrain,Manama,7/5/2023 0:00,SMB,Silver,47,4.7
+C0678,Customer 678,Male,28,Bahrain,Manama,11/1/2022 0:00,SMB,Silver,42,4.3
+C0679,Customer 679,Female,23,Bahrain,Manama,11/24/2024 0:00,Corporate,Platinum,25,4.8
+C0680,Customer 680,Male,40,Bahrain,Manama,12/12/2021 0:00,Consumer,Silver,1,4.4
+C0681,Customer 681,Male,26,Saudi Arabia,Riyadh,7/22/2020 0:00,Corporate,Gold,38,4.7
+C0682,Customer 682,Female,52,Kuwait,Kuwait City,9/3/2023 0:00,Consumer,Platinum,31,3.4
+C0683,Customer 683,Female,18,UAE,Dubai,4/26/2023 0:00,Consumer,Platinum,29,3.1
+C0684,Customer 684,Male,59,Kuwait,Kuwait City,1/14/2023 0:00,Consumer,Gold,19,4.5
+C0685,Customer 685,Male,24,Qatar,Doha,9/16/2024 0:00,Corporate,Gold,14,3.9
+C0686,Customer 686,Male,54,Bahrain,Manama,9/30/2021 0:00,Consumer,Gold,19,4.1
+C0687,Customer 687,Male,19,Qatar,Doha,5/12/2025 0:00,Consumer,Gold,23,3.2
+C0688,Customer 688,Male,54,Bahrain,Manama,6/25/2023 0:00,Corporate,Silver,21,4.1
+C0689,Customer 689,Male,22,UAE,Dubai,7/15/2025 0:00,Consumer,Gold,41,3.1
+C0690,Customer 690,Male,51,Bahrain,Manama,11/22/2022 0:00,SMB,Gold,10,4.9
+C0691,Customer 691,Female,62,Kuwait,Kuwait City,2/27/2022 0:00,Consumer,Silver,47,3.9
+C0692,Customer 692,Female,58,Saudi Arabia,Dammam,7/31/2023 0:00,Corporate,Platinum,11,3.5
+C0693,Customer 693,Female,39,Bahrain,Manama,11/25/2024 0:00,Consumer,Platinum,19,3.7
+C0694,Customer 694,Female,58,Kuwait,Kuwait City,4/8/2022 0:00,SMB,Silver,50,3.3
+C0695,Customer 695,Female,57,Saudi Arabia,Jeddah,2/1/2023 0:00,SMB,Silver,34,4.1
+C0696,Customer 696,Male,21,Oman,Muscat,9/11/2022 0:00,SMB,Silver,23,4.5
+C0697,Customer 697,Female,27,Qatar,Doha,12/5/2024 0:00,Corporate,Gold,26,3.5
+C0698,Customer 698,Male,41,UAE,Abu Dhabi,10/16/2025 0:00,Consumer,Gold,36,3.7
+C0699,Customer 699,Female,43,Qatar,Doha,6/14/2021 0:00,SMB,Gold,25,4.5
+C0700,Customer 700,Female,56,Kuwait,Kuwait City,7/30/2024 0:00,SMB,Silver,12,4.6
+C0701,Customer 701,Male,61,Kuwait,Kuwait City,5/6/2023 0:00,Consumer,Silver,12,4.3
+C0702,Customer 702,Male,26,Bahrain,Manama,7/25/2023 0:00,Corporate,Gold,43,4.1
+C0703,Customer 703,Male,44,UAE,Abu Dhabi,9/19/2023 0:00,Consumer,Platinum,1,3.9
+C0704,Customer 704,Male,61,Saudi Arabia,Jeddah,12/5/2020 0:00,Corporate,Platinum,34,4
+C0705,Customer 705,Male,60,Saudi Arabia,Riyadh,8/9/2023 0:00,Consumer,Platinum,17,4.8
+C0706,Customer 706,Male,40,Bahrain,Manama,5/8/2023 0:00,Consumer,Platinum,30,4.6
+C0707,Customer 707,Male,58,Saudi Arabia,Jeddah,10/14/2025 0:00,Consumer,Silver,31,4.5
+C0708,Customer 708,Male,24,Oman,Muscat,1/11/2020 0:00,SMB,Gold,7,3
+C0709,Customer 709,Female,44,Bahrain,Manama,12/25/2024 0:00,Corporate,Platinum,7,4.5
+C0710,Customer 710,Female,32,Bahrain,Manama,3/9/2020 0:00,Consumer,Silver,33,3.5
+C0711,Customer 711,Male,32,UAE,Abu Dhabi,7/27/2020 0:00,Corporate,Gold,47,3.1
+C0712,Customer 712,Male,23,UAE,Dubai,9/7/2022 0:00,Consumer,Gold,40,4.4
+C0713,Customer 713,Female,49,Bahrain,Manama,9/30/2021 0:00,SMB,Silver,32,4.5
+C0714,Customer 714,Male,64,UAE,Abu Dhabi,2/8/2020 0:00,Corporate,Silver,15,5
+C0715,Customer 715,Male,27,Oman,Muscat,9/28/2022 0:00,Consumer,Gold,1,3.5
+C0716,Customer 716,Male,38,Oman,Muscat,6/27/2024 0:00,Corporate,Gold,22,3.8
+C0717,Customer 717,Female,64,Oman,Muscat,10/19/2025 0:00,Consumer,Gold,21,4.7
+C0718,Customer 718,Male,59,Saudi Arabia,Riyadh,11/13/2025 0:00,Consumer,Silver,48,4.5
+C0719,Customer 719,Male,40,Bahrain,Manama,8/5/2020 0:00,Corporate,Silver,42,4
+C0720,Customer 720,Female,39,Oman,Muscat,10/17/2022 0:00,SMB,Gold,36,3.3
+C0721,Customer 721,Male,59,UAE,Dubai,8/17/2025 0:00,SMB,Gold,27,3.8
+C0722,Customer 722,Male,26,Kuwait,Kuwait City,5/15/2020 0:00,Consumer,Gold,23,3.9
+C0723,Customer 723,Female,27,Bahrain,Manama,1/10/2020 0:00,Corporate,Gold,50,3.6
+C0724,Customer 724,Female,25,Kuwait,Kuwait City,12/13/2025 0:00,Consumer,Platinum,20,4.1
+C0725,Customer 725,Female,64,Qatar,Doha,7/15/2021 0:00,SMB,Silver,25,4.9
+C0726,Customer 726,Male,31,Qatar,Doha,1/26/2020 0:00,SMB,Gold,22,3.5
+C0727,Customer 727,Male,51,Qatar,Doha,10/3/2023 0:00,Corporate,Platinum,35,3.3
+C0728,Customer 728,Male,48,Saudi Arabia,Dammam,5/8/2024 0:00,SMB,Gold,31,4.6
+C0729,Customer 729,Female,26,Bahrain,Manama,10/2/2024 0:00,Consumer,Gold,50,4
+C0730,Customer 730,Female,58,UAE,Dubai,3/4/2023 0:00,Consumer,Platinum,35,3.1
+C0731,Customer 731,Male,47,Qatar,Doha,10/17/2022 0:00,SMB,Silver,50,4.9
+C0732,Customer 732,Male,38,Kuwait,Kuwait City,8/18/2020 0:00,Corporate,Platinum,11,3.1
+C0733,Customer 733,Male,31,Kuwait,Kuwait City,12/15/2025 0:00,SMB,Gold,25,4.8
+C0734,Customer 734,Male,35,Kuwait,Kuwait City,1/30/2023 0:00,Corporate,Silver,42,4.1
+C0735,Customer 735,Male,42,Qatar,Doha,6/20/2021 0:00,Consumer,Platinum,23,3
+C0736,Customer 736,Male,35,Saudi Arabia,Riyadh,6/9/2022 0:00,SMB,Gold,50,4.4
+C0737,Customer 737,Female,39,Kuwait,Kuwait City,1/4/2020 0:00,Consumer,Gold,43,3.2
+C0738,Customer 738,Male,64,Kuwait,Kuwait City,3/9/2023 0:00,Consumer,Platinum,2,4.5
+C0739,Customer 739,Female,30,Kuwait,Kuwait City,12/30/2020 0:00,SMB,Silver,4,4.7
+C0740,Customer 740,Female,46,Kuwait,Kuwait City,2/8/2024 0:00,Consumer,Platinum,17,4.1
+C0741,Customer 741,Female,60,Saudi Arabia,Riyadh,2/17/2025 0:00,Consumer,Silver,38,3.4
+C0742,Customer 742,Female,53,Bahrain,Manama,11/1/2020 0:00,Corporate,Platinum,8,4.9
+C0743,Customer 743,Female,56,Saudi Arabia,Jeddah,10/2/2023 0:00,Corporate,Platinum,13,3.4
+C0744,Customer 744,Male,54,Bahrain,Manama,3/28/2023 0:00,SMB,Platinum,36,3.9
+C0745,Customer 745,Female,22,UAE,Dubai,3/19/2022 0:00,SMB,Gold,43,3.2
+C0746,Customer 746,Male,57,Kuwait,Kuwait City,1/27/2021 0:00,Corporate,Gold,7,4.6
+C0747,Customer 747,Female,51,Saudi Arabia,Jeddah,1/18/2020 0:00,SMB,Silver,9,4.7
+C0748,Customer 748,Male,60,Qatar,Doha,1/25/2023 0:00,SMB,Platinum,10,4.7
+C0749,Customer 749,Female,23,UAE,Dubai,11/25/2025 0:00,SMB,Gold,28,3.2
+C0750,Customer 750,Female,41,Saudi Arabia,Riyadh,4/11/2021 0:00,Consumer,Platinum,37,4
+C0751,Customer 751,Male,50,Kuwait,Kuwait City,7/4/2020 0:00,Consumer,Gold,50,3.2
+C0752,Customer 752,Female,63,Kuwait,Kuwait City,2/6/2021 0:00,SMB,Gold,34,4.3
+C0753,Customer 753,Male,49,Qatar,Doha,9/16/2020 0:00,Corporate,Gold,25,4.1
+C0754,Customer 754,Male,51,Saudi Arabia,Riyadh,3/5/2021 0:00,SMB,Platinum,25,3
+C0755,Customer 755,Male,52,Kuwait,Kuwait City,11/24/2022 0:00,Consumer,Gold,10,3.4
+C0756,Customer 756,Female,62,Saudi Arabia,Dammam,6/8/2021 0:00,Consumer,Platinum,44,4.6
+C0757,Customer 757,Female,65,Saudi Arabia,Jeddah,12/15/2025 0:00,Consumer,Platinum,23,3.2
+C0758,Customer 758,Female,56,Kuwait,Kuwait City,6/26/2022 0:00,Corporate,Silver,22,3.5
+C0759,Customer 759,Female,61,Qatar,Doha,7/2/2021 0:00,Consumer,Platinum,29,3.4
+C0760,Customer 760,Male,40,Saudi Arabia,Riyadh,10/21/2021 0:00,Consumer,Gold,23,3.6
+C0761,Customer 761,Male,64,Qatar,Doha,7/30/2022 0:00,SMB,Silver,32,3.9
+C0762,Customer 762,Male,60,Saudi Arabia,Jeddah,10/25/2022 0:00,SMB,Gold,1,4.3
+C0763,Customer 763,Male,55,Oman,Muscat,5/29/2024 0:00,Corporate,Gold,49,4.9
+C0764,Customer 764,Female,60,Oman,Muscat,4/2/2024 0:00,Corporate,Silver,18,4.5
+C0765,Customer 765,Female,35,Kuwait,Kuwait City,10/5/2022 0:00,SMB,Silver,36,4.3
+C0766,Customer 766,Female,32,Kuwait,Kuwait City,2/20/2020 0:00,Consumer,Platinum,35,4.5
+C0767,Customer 767,Female,37,Oman,Muscat,10/10/2021 0:00,SMB,Silver,31,4.2
+C0768,Customer 768,Male,35,Saudi Arabia,Riyadh,5/16/2024 0:00,Corporate,Silver,13,4.4
+C0769,Customer 769,Male,22,Kuwait,Kuwait City,7/22/2025 0:00,Consumer,Platinum,19,4.3
+C0770,Customer 770,Male,59,Kuwait,Kuwait City,3/10/2021 0:00,Consumer,Platinum,31,4.5
+C0771,Customer 771,Female,18,Kuwait,Kuwait City,1/11/2025 0:00,SMB,Gold,39,3.8
+C0772,Customer 772,Male,63,UAE,Dubai,12/27/2023 0:00,SMB,Silver,8,4
+C0773,Customer 773,Male,33,Kuwait,Kuwait City,8/6/2025 0:00,SMB,Silver,17,3.9
+C0774,Customer 774,Female,42,Bahrain,Manama,2/18/2022 0:00,Corporate,Silver,34,3.6
+C0775,Customer 775,Male,19,Bahrain,Manama,9/24/2024 0:00,SMB,Silver,45,3.6
+C0776,Customer 776,Female,34,Saudi Arabia,Riyadh,8/18/2025 0:00,SMB,Platinum,3,3.6
+C0777,Customer 777,Female,54,Bahrain,Manama,9/24/2024 0:00,Consumer,Gold,26,4.3
+C0778,Customer 778,Female,31,Kuwait,Kuwait City,6/8/2024 0:00,Consumer,Gold,25,4.4
+C0779,Customer 779,Male,31,UAE,Dubai,7/10/2025 0:00,Corporate,Silver,17,3.6
+C0780,Customer 780,Female,49,Qatar,Doha,1/14/2025 0:00,SMB,Platinum,49,3.4
+C0781,Customer 781,Female,44,UAE,Dubai,8/19/2024 0:00,SMB,Gold,42,3.9
+C0782,Customer 782,Male,40,Kuwait,Kuwait City,1/17/2021 0:00,Corporate,Platinum,14,4.3
+C0783,Customer 783,Male,31,Oman,Muscat,6/12/2023 0:00,Consumer,Silver,40,3.3
+C0784,Customer 784,Female,42,Saudi Arabia,Riyadh,3/1/2023 0:00,Consumer,Gold,2,3.1
+C0785,Customer 785,Male,65,Oman,Muscat,5/16/2025 0:00,Consumer,Platinum,18,3.5
+C0786,Customer 786,Male,55,Qatar,Doha,9/14/2022 0:00,Consumer,Platinum,42,3.2
+C0787,Customer 787,Female,56,UAE,Abu Dhabi,8/24/2021 0:00,Consumer,Platinum,46,3
+C0788,Customer 788,Female,47,Saudi Arabia,Jeddah,5/25/2020 0:00,SMB,Platinum,29,3.2
+C0789,Customer 789,Male,50,Qatar,Doha,12/15/2025 0:00,SMB,Platinum,33,3.7
+C0790,Customer 790,Male,63,Qatar,Doha,11/8/2024 0:00,SMB,Silver,44,3.8
+C0791,Customer 791,Female,33,Qatar,Doha,3/12/2022 0:00,SMB,Silver,5,4.7
+C0792,Customer 792,Male,54,UAE,Dubai,6/23/2024 0:00,SMB,Gold,46,4.6
+C0793,Customer 793,Male,42,UAE,Abu Dhabi,3/16/2022 0:00,Corporate,Silver,4,3.1
+C0794,Customer 794,Female,55,Oman,Muscat,12/6/2025 0:00,SMB,Silver,19,3.3
+C0795,Customer 795,Male,27,Kuwait,Kuwait City,5/8/2023 0:00,Consumer,Silver,31,4.6
+C0796,Customer 796,Female,59,Qatar,Doha,4/1/2020 0:00,Corporate,Platinum,50,3.5
+C0797,Customer 797,Male,50,UAE,Dubai,9/1/2025 0:00,Corporate,Gold,37,3.5
+C0798,Customer 798,Male,63,Saudi Arabia,Riyadh,1/27/2021 0:00,Consumer,Platinum,48,3
+C0799,Customer 799,Female,61,UAE,Abu Dhabi,6/5/2024 0:00,SMB,Gold,23,4.4
+C0800,Customer 800,Female,30,Qatar,Doha,6/23/2021 0:00,Consumer,Silver,20,3
+C0801,Customer 801,Female,36,Kuwait,Kuwait City,10/27/2021 0:00,Corporate,Gold,39,3.9
+C0802,Customer 802,Female,42,Qatar,Doha,8/21/2024 0:00,Consumer,Gold,11,4.1
+C0803,Customer 803,Female,49,Bahrain,Manama,9/14/2020 0:00,SMB,Silver,9,4.5
+C0804,Customer 804,Female,57,Bahrain,Manama,6/30/2025 0:00,Consumer,Platinum,11,3.1
+C0805,Customer 805,Male,22,Oman,Muscat,2/23/2025 0:00,SMB,Gold,17,4.8
+C0806,Customer 806,Female,49,Bahrain,Manama,2/7/2020 0:00,Corporate,Platinum,33,4.2
+C0807,Customer 807,Male,39,Qatar,Doha,7/2/2023 0:00,Consumer,Platinum,5,3.3
+C0808,Customer 808,Male,64,Bahrain,Manama,7/22/2020 0:00,Consumer,Silver,37,3.6
+C0809,Customer 809,Male,59,Qatar,Doha,12/9/2023 0:00,SMB,Platinum,45,3.8
+C0810,Customer 810,Male,28,UAE,Dubai,2/12/2021 0:00,SMB,Silver,36,4.6
+C0811,Customer 811,Male,23,Kuwait,Kuwait City,8/5/2022 0:00,SMB,Platinum,21,3.1
+C0812,Customer 812,Female,55,Bahrain,Manama,9/12/2020 0:00,Consumer,Silver,8,3
+C0813,Customer 813,Male,44,Oman,Muscat,10/23/2020 0:00,SMB,Platinum,21,3.1
+C0814,Customer 814,Male,39,Saudi Arabia,Riyadh,4/26/2022 0:00,SMB,Platinum,14,3.8
+C0815,Customer 815,Male,42,Saudi Arabia,Dammam,5/9/2022 0:00,SMB,Silver,22,3.9
+C0816,Customer 816,Male,51,Kuwait,Kuwait City,2/27/2021 0:00,SMB,Platinum,37,4.6
+C0817,Customer 817,Female,53,Qatar,Doha,4/8/2020 0:00,Consumer,Gold,30,4.3
+C0818,Customer 818,Female,55,Kuwait,Kuwait City,5/13/2020 0:00,Corporate,Silver,47,4.5
+C0819,Customer 819,Female,63,Oman,Muscat,8/23/2022 0:00,Corporate,Platinum,50,3.8
+C0820,Customer 820,Male,48,Kuwait,Kuwait City,11/13/2020 0:00,Consumer,Silver,31,4.7
+C0821,Customer 821,Female,24,Kuwait,Kuwait City,2/17/2024 0:00,Consumer,Silver,33,3.5
+C0822,Customer 822,Male,25,Qatar,Doha,1/18/2023 0:00,Consumer,Silver,46,3.6
+C0823,Customer 823,Female,43,UAE,Dubai,1/26/2022 0:00,Corporate,Silver,46,4.4
+C0824,Customer 824,Male,65,Qatar,Doha,1/8/2022 0:00,SMB,Gold,49,4.5
+C0825,Customer 825,Male,32,UAE,Dubai,1/17/2022 0:00,SMB,Gold,14,4.9
+C0826,Customer 826,Male,44,Qatar,Doha,12/1/2025 0:00,Consumer,Silver,8,4.7
+C0827,Customer 827,Female,56,Bahrain,Manama,2/24/2024 0:00,SMB,Silver,5,4.7
+C0828,Customer 828,Male,59,Bahrain,Manama,6/28/2024 0:00,Consumer,Platinum,22,3.2
+C0829,Customer 829,Male,64,Bahrain,Manama,8/8/2022 0:00,Corporate,Platinum,47,3.1
+C0830,Customer 830,Male,18,Oman,Muscat,6/14/2021 0:00,Corporate,Silver,2,3.4
+C0831,Customer 831,Female,43,UAE,Abu Dhabi,9/8/2024 0:00,Corporate,Gold,43,4.9
+C0832,Customer 832,Male,65,Qatar,Doha,1/3/2025 0:00,Corporate,Gold,30,3.7
+C0833,Customer 833,Male,45,Oman,Muscat,4/4/2022 0:00,Corporate,Platinum,10,4.9
+C0834,Customer 834,Male,54,Qatar,Doha,4/10/2025 0:00,Consumer,Platinum,32,4.2
+C0835,Customer 835,Female,39,Qatar,Doha,2/15/2021 0:00,Consumer,Silver,25,4.9
+C0836,Customer 836,Male,56,Qatar,Doha,6/3/2024 0:00,Corporate,Silver,46,3.1
+C0837,Customer 837,Female,24,Kuwait,Kuwait City,5/12/2022 0:00,SMB,Silver,48,3.1
+C0838,Customer 838,Female,22,Bahrain,Manama,6/11/2022 0:00,Corporate,Silver,21,4
+C0839,Customer 839,Female,22,Oman,Muscat,7/16/2021 0:00,SMB,Platinum,13,4.9
+C0840,Customer 840,Female,60,UAE,Dubai,11/16/2021 0:00,SMB,Silver,9,3
+C0841,Customer 841,Female,50,Oman,Muscat,7/10/2024 0:00,SMB,Platinum,30,4.3
+C0842,Customer 842,Male,35,Oman,Muscat,11/30/2023 0:00,Consumer,Gold,11,3.3
+C0843,Customer 843,Male,40,Oman,Muscat,8/31/2023 0:00,Consumer,Platinum,42,4.8
+C0844,Customer 844,Female,21,Qatar,Doha,4/24/2024 0:00,Corporate,Silver,24,4.6
+C0845,Customer 845,Male,34,Qatar,Doha,6/3/2021 0:00,Consumer,Gold,20,4.8
+C0846,Customer 846,Female,22,Kuwait,Kuwait City,12/15/2020 0:00,SMB,Platinum,49,4.4
+C0847,Customer 847,Female,53,Kuwait,Kuwait City,1/20/2024 0:00,Consumer,Platinum,42,4
+C0848,Customer 848,Male,65,Bahrain,Manama,7/9/2022 0:00,Consumer,Silver,42,3.9
+C0849,Customer 849,Female,26,Oman,Muscat,10/8/2023 0:00,Consumer,Gold,32,4.2
+C0850,Customer 850,Male,60,Oman,Muscat,12/9/2023 0:00,Consumer,Platinum,45,4
+C0851,Customer 851,Male,20,Qatar,Doha,12/3/2023 0:00,Consumer,Gold,34,5
+C0852,Customer 852,Male,36,Bahrain,Manama,1/30/2025 0:00,Corporate,Gold,49,3.1
+C0853,Customer 853,Female,58,Bahrain,Manama,12/22/2020 0:00,SMB,Silver,45,3.2
+C0854,Customer 854,Female,25,Oman,Muscat,8/14/2024 0:00,Consumer,Silver,17,4.6
+C0855,Customer 855,Male,58,Bahrain,Manama,2/28/2021 0:00,SMB,Platinum,14,3.5
+C0856,Customer 856,Male,19,UAE,Abu Dhabi,4/27/2022 0:00,SMB,Platinum,7,3
+C0857,Customer 857,Male,29,UAE,Abu Dhabi,11/13/2023 0:00,Corporate,Platinum,47,5
+C0858,Customer 858,Male,41,Qatar,Doha,9/10/2022 0:00,Consumer,Platinum,12,4.3
+C0859,Customer 859,Female,27,Oman,Muscat,8/16/2020 0:00,SMB,Platinum,16,4.4
+C0860,Customer 860,Male,23,Bahrain,Manama,11/8/2023 0:00,Corporate,Platinum,35,3.3
+C0861,Customer 861,Female,43,UAE,Dubai,7/18/2023 0:00,Consumer,Gold,39,4.8
+C0862,Customer 862,Male,45,Kuwait,Kuwait City,8/18/2025 0:00,Consumer,Gold,38,4.8
+C0863,Customer 863,Female,52,Saudi Arabia,Jeddah,12/28/2024 0:00,Corporate,Silver,42,3.2
+C0864,Customer 864,Female,51,Bahrain,Manama,1/2/2021 0:00,SMB,Silver,45,4.3
+C0865,Customer 865,Female,42,UAE,Dubai,10/23/2021 0:00,Consumer,Platinum,15,4.9
+C0866,Customer 866,Male,19,Oman,Muscat,4/10/2024 0:00,SMB,Platinum,30,4.3
+C0867,Customer 867,Male,60,UAE,Abu Dhabi,4/30/2020 0:00,Consumer,Silver,7,4.1
+C0868,Customer 868,Female,63,Oman,Muscat,10/28/2022 0:00,Consumer,Silver,20,4.5
+C0869,Customer 869,Female,31,Saudi Arabia,Riyadh,10/26/2022 0:00,Corporate,Gold,42,4.2
+C0870,Customer 870,Female,36,Bahrain,Manama,9/30/2025 0:00,Consumer,Gold,5,4.8
+C0871,Customer 871,Female,42,Bahrain,Manama,12/8/2021 0:00,SMB,Gold,19,3.5
+C0872,Customer 872,Female,30,Saudi Arabia,Jeddah,12/3/2022 0:00,Consumer,Gold,22,4.6
+C0873,Customer 873,Female,57,Saudi Arabia,Dammam,10/13/2025 0:00,Corporate,Platinum,36,4
+C0874,Customer 874,Male,39,Kuwait,Kuwait City,3/8/2020 0:00,Corporate,Silver,50,3.8
+C0875,Customer 875,Male,55,UAE,Dubai,10/5/2020 0:00,Consumer,Platinum,29,3.3
+C0876,Customer 876,Female,63,Oman,Muscat,5/11/2024 0:00,SMB,Gold,46,3.2
+C0877,Customer 877,Male,27,UAE,Dubai,2/15/2020 0:00,Consumer,Platinum,45,3.1
+C0878,Customer 878,Female,43,Bahrain,Manama,8/8/2020 0:00,Consumer,Silver,35,4.9
+C0879,Customer 879,Male,57,Qatar,Doha,10/3/2021 0:00,Corporate,Platinum,34,4.4
+C0880,Customer 880,Male,49,Qatar,Doha,2/7/2023 0:00,Corporate,Platinum,45,4
+C0881,Customer 881,Male,64,Bahrain,Manama,12/7/2022 0:00,SMB,Gold,11,3.9
+C0882,Customer 882,Female,62,Bahrain,Manama,11/15/2020 0:00,Consumer,Platinum,13,4.2
+C0883,Customer 883,Female,31,Saudi Arabia,Riyadh,7/29/2021 0:00,SMB,Gold,27,4.7
+C0884,Customer 884,Female,37,UAE,Dubai,8/18/2020 0:00,Corporate,Silver,1,4.4
+C0885,Customer 885,Female,27,Saudi Arabia,Riyadh,6/12/2020 0:00,Consumer,Platinum,24,3.8
+C0886,Customer 886,Male,26,Saudi Arabia,Jeddah,2/19/2022 0:00,SMB,Silver,23,4.1
+C0887,Customer 887,Male,44,Oman,Muscat,9/18/2021 0:00,SMB,Gold,31,3.3
+C0888,Customer 888,Female,40,Bahrain,Manama,7/8/2023 0:00,Corporate,Platinum,34,3.7
+C0889,Customer 889,Female,50,Kuwait,Kuwait City,8/14/2024 0:00,Consumer,Platinum,3,4.6
+C0890,Customer 890,Female,54,UAE,Dubai,8/24/2023 0:00,Corporate,Silver,33,3.5
+C0891,Customer 891,Female,51,Oman,Muscat,10/25/2024 0:00,SMB,Silver,39,4.2
+C0892,Customer 892,Male,40,UAE,Dubai,8/30/2025 0:00,Corporate,Silver,22,4
+C0893,Customer 893,Male,50,Qatar,Doha,8/27/2025 0:00,SMB,Platinum,18,3.2
+C0894,Customer 894,Male,55,Qatar,Doha,1/9/2020 0:00,SMB,Platinum,8,4.2
+C0895,Customer 895,Male,25,Kuwait,Kuwait City,7/4/2021 0:00,SMB,Platinum,44,4.5
+C0896,Customer 896,Male,39,UAE,Abu Dhabi,7/19/2023 0:00,Corporate,Silver,11,3.4
+C0897,Customer 897,Male,54,Kuwait,Kuwait City,11/10/2024 0:00,SMB,Silver,33,3.7
+C0898,Customer 898,Female,58,Bahrain,Manama,12/26/2024 0:00,SMB,Silver,32,4.4
+C0899,Customer 899,Female,47,Oman,Muscat,7/10/2020 0:00,Consumer,Platinum,12,4.9
+C0900,Customer 900,Female,52,Oman,Muscat,12/7/2022 0:00,SMB,Platinum,12,3.7
+C0901,Customer 901,Female,26,UAE,Dubai,6/4/2023 0:00,Corporate,Gold,50,3
+C0902,Customer 902,Male,24,Qatar,Doha,4/6/2025 0:00,Consumer,Silver,16,5
+C0903,Customer 903,Male,50,UAE,Dubai,4/29/2025 0:00,Corporate,Gold,8,4.1
+C0904,Customer 904,Male,50,Oman,Muscat,3/17/2025 0:00,Corporate,Gold,35,3
+C0905,Customer 905,Male,27,Oman,Muscat,11/19/2020 0:00,SMB,Gold,5,3.4
+C0906,Customer 906,Female,44,Oman,Muscat,11/14/2021 0:00,Corporate,Gold,33,4.3
+C0907,Customer 907,Female,32,Kuwait,Kuwait City,1/10/2025 0:00,Corporate,Gold,1,4.8
+C0908,Customer 908,Female,48,Oman,Muscat,5/3/2025 0:00,Corporate,Gold,18,4.7
+C0909,Customer 909,Female,30,Qatar,Doha,1/2/2024 0:00,Consumer,Platinum,5,4.2
+C0910,Customer 910,Female,39,Qatar,Doha,6/21/2021 0:00,Corporate,Gold,36,4
+C0911,Customer 911,Male,37,Oman,Muscat,8/28/2025 0:00,Consumer,Gold,5,3.9
+C0912,Customer 912,Female,45,Bahrain,Manama,4/9/2020 0:00,Consumer,Platinum,2,4.6
+C0913,Customer 913,Female,30,Kuwait,Kuwait City,3/6/2021 0:00,Consumer,Gold,11,3.2
+C0914,Customer 914,Male,53,Bahrain,Manama,1/31/2025 0:00,Corporate,Platinum,39,4.8
+C0915,Customer 915,Male,58,Kuwait,Kuwait City,3/16/2025 0:00,Corporate,Silver,36,4.7
+C0916,Customer 916,Male,27,Bahrain,Manama,8/17/2022 0:00,Consumer,Gold,18,4.1
+C0917,Customer 917,Male,39,Kuwait,Kuwait City,4/16/2024 0:00,Corporate,Silver,34,3.1
+C0918,Customer 918,Male,61,UAE,Abu Dhabi,9/21/2022 0:00,SMB,Platinum,17,4.7
+C0919,Customer 919,Male,18,Qatar,Doha,6/21/2022 0:00,Corporate,Gold,23,3.1
+C0920,Customer 920,Male,43,UAE,Abu Dhabi,3/30/2020 0:00,Corporate,Silver,36,3.9
+C0921,Customer 921,Female,34,Saudi Arabia,Jeddah,6/30/2025 0:00,Corporate,Platinum,20,4.3
+C0922,Customer 922,Male,41,UAE,Abu Dhabi,5/5/2025 0:00,SMB,Gold,49,4.8
+C0923,Customer 923,Male,48,Oman,Muscat,5/7/2023 0:00,Consumer,Silver,2,3.3
+C0924,Customer 924,Female,44,UAE,Abu Dhabi,3/5/2023 0:00,Consumer,Silver,35,4.1
+C0925,Customer 925,Female,18,Bahrain,Manama,5/8/2020 0:00,Corporate,Gold,48,3.8
+C0926,Customer 926,Male,43,Bahrain,Manama,2/28/2024 0:00,SMB,Platinum,27,4.3
+C0927,Customer 927,Female,36,UAE,Dubai,3/4/2022 0:00,Consumer,Gold,28,4.8
+C0928,Customer 928,Female,24,UAE,Dubai,3/23/2020 0:00,Consumer,Gold,33,4.9
+C0929,Customer 929,Female,23,Oman,Muscat,1/29/2020 0:00,Consumer,Platinum,15,4.2
+C0930,Customer 930,Male,38,Bahrain,Manama,9/17/2024 0:00,SMB,Silver,40,5
+C0931,Customer 931,Female,31,Kuwait,Kuwait City,1/9/2024 0:00,Consumer,Gold,40,3.3
+C0932,Customer 932,Male,57,Bahrain,Manama,10/21/2023 0:00,Corporate,Gold,4,3.1
+C0933,Customer 933,Female,34,Qatar,Doha,11/21/2024 0:00,SMB,Gold,32,3.3
+C0934,Customer 934,Male,18,UAE,Abu Dhabi,11/28/2025 0:00,SMB,Platinum,19,3
+C0935,Customer 935,Male,41,UAE,Dubai,7/27/2023 0:00,SMB,Silver,28,4.3
+C0936,Customer 936,Male,63,Kuwait,Kuwait City,11/10/2024 0:00,Consumer,Gold,25,4.7
+C0937,Customer 937,Male,63,Bahrain,Manama,11/5/2022 0:00,Consumer,Silver,10,5
+C0938,Customer 938,Female,55,Kuwait,Kuwait City,12/6/2023 0:00,Consumer,Platinum,15,3.9
+C0939,Customer 939,Male,27,UAE,Abu Dhabi,7/17/2025 0:00,Consumer,Platinum,44,3.2
+C0940,Customer 940,Female,45,Saudi Arabia,Jeddah,2/8/2023 0:00,Consumer,Silver,21,4.5
+C0941,Customer 941,Male,18,Oman,Muscat,6/3/2025 0:00,SMB,Silver,26,4.7
+C0942,Customer 942,Male,44,Kuwait,Kuwait City,11/28/2022 0:00,Consumer,Silver,47,3.4
+C0943,Customer 943,Female,64,Saudi Arabia,Dammam,11/4/2022 0:00,SMB,Gold,35,4.9
+C0944,Customer 944,Female,52,Saudi Arabia,Jeddah,2/29/2024 0:00,SMB,Silver,12,3.8
+C0945,Customer 945,Male,51,Saudi Arabia,Jeddah,1/3/2020 0:00,Corporate,Silver,2,3.5
+C0946,Customer 946,Female,26,Saudi Arabia,Jeddah,3/5/2020 0:00,SMB,Silver,31,3.6
+C0947,Customer 947,Female,24,Kuwait,Kuwait City,1/3/2020 0:00,SMB,Platinum,14,3.1
+C0948,Customer 948,Male,36,UAE,Dubai,5/4/2021 0:00,Corporate,Platinum,4,4.8
+C0949,Customer 949,Female,58,Saudi Arabia,Jeddah,10/11/2024 0:00,Consumer,Silver,5,3.8
+C0950,Customer 950,Female,28,UAE,Abu Dhabi,6/20/2025 0:00,Corporate,Silver,44,3.1
+C0951,Customer 951,Female,59,Bahrain,Manama,10/15/2025 0:00,Consumer,Gold,12,3.9
+C0952,Customer 952,Female,24,Oman,Muscat,7/23/2022 0:00,Consumer,Gold,30,5
+C0953,Customer 953,Female,40,Bahrain,Manama,2/21/2022 0:00,Consumer,Gold,37,3.5
+C0954,Customer 954,Male,54,Saudi Arabia,Jeddah,4/2/2023 0:00,SMB,Platinum,1,4.7
+C0955,Customer 955,Male,47,Saudi Arabia,Riyadh,1/8/2021 0:00,Consumer,Platinum,22,4.4
+C0956,Customer 956,Male,27,Bahrain,Manama,1/17/2025 0:00,Consumer,Silver,16,4.1
+C0957,Customer 957,Female,20,Oman,Muscat,1/10/2025 0:00,SMB,Platinum,42,3.8
+C0958,Customer 958,Female,27,Saudi Arabia,Riyadh,9/19/2024 0:00,Consumer,Silver,37,4.2
+C0959,Customer 959,Male,58,Saudi Arabia,Riyadh,11/1/2021 0:00,SMB,Silver,40,4.2
+C0960,Customer 960,Male,50,Qatar,Doha,1/21/2025 0:00,Corporate,Silver,50,4.9
+C0961,Customer 961,Female,20,UAE,Abu Dhabi,11/17/2023 0:00,Consumer,Platinum,41,4.3
+C0962,Customer 962,Male,31,Saudi Arabia,Jeddah,5/11/2025 0:00,SMB,Silver,15,4.5
+C0963,Customer 963,Male,30,UAE,Abu Dhabi,11/5/2023 0:00,Corporate,Gold,41,4.5
+C0964,Customer 964,Male,37,Kuwait,Kuwait City,2/1/2020 0:00,Corporate,Silver,48,3.1
+C0965,Customer 965,Female,18,Bahrain,Manama,9/13/2022 0:00,Corporate,Silver,22,4.5
+C0966,Customer 966,Male,45,Bahrain,Manama,12/26/2021 0:00,Consumer,Platinum,21,4.4
+C0967,Customer 967,Male,24,UAE,Dubai,9/29/2023 0:00,SMB,Gold,26,5
+C0968,Customer 968,Female,48,Kuwait,Kuwait City,6/28/2025 0:00,Consumer,Platinum,14,3.5
+C0969,Customer 969,Female,22,Saudi Arabia,Riyadh,7/3/2022 0:00,SMB,Platinum,7,3
+C0970,Customer 970,Male,56,Oman,Muscat,8/12/2021 0:00,Consumer,Platinum,29,3.8
+C0971,Customer 971,Female,25,Saudi Arabia,Dammam,7/17/2025 0:00,SMB,Gold,48,3.1
+C0972,Customer 972,Male,28,Saudi Arabia,Riyadh,1/1/2021 0:00,SMB,Gold,16,3.1
+C0973,Customer 973,Male,48,Saudi Arabia,Dammam,4/19/2021 0:00,Consumer,Platinum,7,3.3
+C0974,Customer 974,Female,65,Oman,Muscat,12/15/2023 0:00,SMB,Gold,29,3.2
+C0975,Customer 975,Male,61,Saudi Arabia,Dammam,9/1/2020 0:00,SMB,Gold,18,3.2
+C0976,Customer 976,Female,30,Kuwait,Kuwait City,6/15/2024 0:00,Corporate,Gold,8,3.1
+C0977,Customer 977,Male,23,Saudi Arabia,Dammam,10/10/2022 0:00,Consumer,Platinum,38,3
+C0978,Customer 978,Female,63,Saudi Arabia,Riyadh,1/9/2020 0:00,Consumer,Silver,30,4.6
+C0979,Customer 979,Male,36,UAE,Abu Dhabi,11/15/2025 0:00,SMB,Silver,23,4
+C0980,Customer 980,Male,38,Kuwait,Kuwait City,9/15/2020 0:00,Corporate,Platinum,20,4.1
+C0981,Customer 981,Female,45,Kuwait,Kuwait City,7/5/2025 0:00,SMB,Platinum,10,3.2
+C0982,Customer 982,Male,47,Bahrain,Manama,5/8/2021 0:00,Corporate,Silver,36,4.8
+C0983,Customer 983,Female,30,Kuwait,Kuwait City,11/24/2022 0:00,Consumer,Gold,7,3.8
+C0984,Customer 984,Male,53,Qatar,Doha,11/9/2020 0:00,SMB,Gold,34,4
+C0985,Customer 985,Male,49,Oman,Muscat,11/6/2020 0:00,SMB,Silver,24,4.1
+C0986,Customer 986,Female,31,UAE,Dubai,4/3/2022 0:00,SMB,Silver,34,4.2
+C0987,Customer 987,Female,35,Oman,Muscat,3/4/2025 0:00,Consumer,Gold,41,3.9
+C0988,Customer 988,Female,51,Qatar,Doha,11/12/2023 0:00,Consumer,Platinum,48,4.5
+C0989,Customer 989,Female,64,Bahrain,Manama,7/9/2023 0:00,Corporate,Platinum,50,4.6
+C0990,Customer 990,Male,25,Saudi Arabia,Dammam,3/11/2025 0:00,SMB,Platinum,29,3.4
+C0991,Customer 991,Female,49,Qatar,Doha,1/7/2024 0:00,Consumer,Platinum,12,4.8
+C0992,Customer 992,Female,32,Oman,Muscat,10/5/2021 0:00,Consumer,Platinum,34,3.4
+C0993,Customer 993,Female,57,Saudi Arabia,Jeddah,2/25/2025 0:00,SMB,Silver,16,3.8
+C0994,Customer 994,Male,43,Saudi Arabia,Riyadh,10/23/2025 0:00,Consumer,Silver,46,4.5
+C0995,Customer 995,Female,55,Qatar,Doha,3/30/2025 0:00,Corporate,Gold,30,4.7
+C0996,Customer 996,Female,31,Saudi Arabia,Jeddah,11/16/2025 0:00,Consumer,Platinum,4,4.2
+C0997,Customer 997,Male,23,Oman,Muscat,3/29/2021 0:00,Corporate,Platinum,21,4.7
+C0998,Customer 998,Male,51,Oman,Muscat,1/30/2024 0:00,SMB,Platinum,10,4.7
+C0999,Customer 999,Female,27,UAE,Abu Dhabi,10/9/2022 0:00,Consumer,Platinum,41,3.7
+C1000,Customer 1000,Male,63,Kuwait,Kuwait City,5/12/2025 0:00,Consumer,Gold,12,3.2
+C1001,Customer 1001,Female,65,Saudi Arabia,Dammam,12/28/2022 0:00,SMB,Silver,18,3.7
+C1002,Customer 1002,Male,29,Qatar,Doha,5/31/2022 0:00,Consumer,Platinum,15,4
+C1003,Customer 1003,Female,24,Qatar,Doha,2/2/2021 0:00,Consumer,Platinum,28,3.9
+C1004,Customer 1004,Male,40,UAE,Abu Dhabi,2/3/2020 0:00,Corporate,Gold,33,3.1
+C1005,Customer 1005,Male,19,Saudi Arabia,Dammam,9/30/2020 0:00,Consumer,Gold,28,3.9
+C1006,Customer 1006,Male,62,Bahrain,Manama,10/23/2021 0:00,Corporate,Platinum,25,3
+C1007,Customer 1007,Female,33,Kuwait,Kuwait City,12/21/2024 0:00,Corporate,Gold,20,3.4
+C1008,Customer 1008,Female,55,Oman,Muscat,7/22/2021 0:00,SMB,Platinum,6,4.4
+C1009,Customer 1009,Male,47,Kuwait,Kuwait City,11/28/2022 0:00,Consumer,Platinum,15,4.9
+C1010,Customer 1010,Female,32,Qatar,Doha,6/3/2025 0:00,Corporate,Platinum,38,3.1
+C1011,Customer 1011,Male,28,Kuwait,Kuwait City,7/20/2024 0:00,Consumer,Gold,20,3.7
+C1012,Customer 1012,Female,38,Bahrain,Manama,5/4/2024 0:00,SMB,Gold,47,4.7
+C1013,Customer 1013,Male,62,Saudi Arabia,Riyadh,3/11/2023 0:00,SMB,Gold,37,4.9
+C1014,Customer 1014,Male,25,UAE,Dubai,2/2/2025 0:00,Corporate,Platinum,37,3.6
+C1015,Customer 1015,Male,51,Oman,Muscat,4/3/2024 0:00,SMB,Silver,27,3.2
+C1016,Customer 1016,Male,26,Saudi Arabia,Riyadh,1/3/2021 0:00,Corporate,Gold,6,4.4
+C1017,Customer 1017,Male,58,Qatar,Doha,2/24/2025 0:00,SMB,Gold,41,3.6
+C1018,Customer 1018,Male,23,Bahrain,Manama,6/25/2020 0:00,Corporate,Platinum,6,4.8
+C1019,Customer 1019,Female,56,Oman,Muscat,11/30/2024 0:00,Consumer,Platinum,3,3.5
+C1020,Customer 1020,Male,42,Saudi Arabia,Riyadh,3/9/2025 0:00,Consumer,Platinum,50,4
+C1021,Customer 1021,Male,33,Saudi Arabia,Jeddah,11/10/2023 0:00,Corporate,Gold,5,3.1
+C1022,Customer 1022,Female,35,UAE,Dubai,4/16/2022 0:00,SMB,Gold,17,4.8
+C1023,Customer 1023,Female,38,Qatar,Doha,9/13/2022 0:00,Consumer,Platinum,38,4.5
+C1024,Customer 1024,Female,43,UAE,Dubai,2/25/2021 0:00,Consumer,Silver,7,4.1
+C1025,Customer 1025,Male,48,Kuwait,Kuwait City,3/20/2023 0:00,SMB,Gold,12,3.5
+C1026,Customer 1026,Female,53,UAE,Abu Dhabi,4/23/2022 0:00,Consumer,Gold,5,3.7
+C1027,Customer 1027,Female,24,UAE,Dubai,7/18/2022 0:00,Corporate,Platinum,32,4
+C1028,Customer 1028,Male,37,Oman,Muscat,1/29/2020 0:00,Consumer,Platinum,9,3.2
+C1029,Customer 1029,Female,30,Saudi Arabia,Dammam,5/19/2023 0:00,SMB,Platinum,20,4.2
+C1030,Customer 1030,Female,44,Bahrain,Manama,4/9/2024 0:00,SMB,Silver,22,4.1
+C1031,Customer 1031,Male,51,Kuwait,Kuwait City,7/17/2024 0:00,Corporate,Gold,25,3.7
+C1032,Customer 1032,Female,20,Qatar,Doha,3/8/2022 0:00,Corporate,Platinum,15,4.9
+C1033,Customer 1033,Female,26,Qatar,Doha,10/3/2022 0:00,SMB,Silver,20,3.4
+C1034,Customer 1034,Female,62,Qatar,Doha,7/1/2023 0:00,Consumer,Silver,22,3.9
+C1035,Customer 1035,Male,46,Kuwait,Kuwait City,8/15/2020 0:00,Corporate,Platinum,22,4.5
+C1036,Customer 1036,Male,36,Kuwait,Kuwait City,10/11/2022 0:00,Corporate,Platinum,32,3.8
+C1037,Customer 1037,Male,46,UAE,Dubai,12/21/2025 0:00,Consumer,Silver,12,4.7
+C1038,Customer 1038,Female,55,Saudi Arabia,Dammam,8/18/2024 0:00,SMB,Silver,37,4.4
+C1039,Customer 1039,Female,31,Kuwait,Kuwait City,8/31/2020 0:00,SMB,Platinum,24,4.4
+C1040,Customer 1040,Male,23,Bahrain,Manama,7/12/2022 0:00,SMB,Platinum,26,4.5
+C1041,Customer 1041,Male,45,Qatar,Doha,5/23/2025 0:00,Consumer,Silver,38,3.6
+C1042,Customer 1042,Male,36,Kuwait,Kuwait City,11/27/2020 0:00,Corporate,Platinum,47,3.6
+C1043,Customer 1043,Female,47,UAE,Abu Dhabi,11/30/2020 0:00,SMB,Silver,4,3.4
+C1044,Customer 1044,Male,21,Saudi Arabia,Riyadh,3/30/2024 0:00,Consumer,Gold,17,4.9
+C1045,Customer 1045,Male,42,Kuwait,Kuwait City,7/17/2024 0:00,SMB,Silver,38,3.7
+C1046,Customer 1046,Male,54,Oman,Muscat,2/20/2023 0:00,SMB,Platinum,5,4.5
+C1047,Customer 1047,Female,38,Kuwait,Kuwait City,2/19/2020 0:00,SMB,Gold,24,4.4
+C1048,Customer 1048,Male,58,Oman,Muscat,7/20/2025 0:00,SMB,Platinum,36,4.3
+C1049,Customer 1049,Male,37,Oman,Muscat,8/5/2025 0:00,SMB,Gold,32,4.3
+C1050,Customer 1050,Female,32,Saudi Arabia,Riyadh,8/11/2022 0:00,SMB,Platinum,30,3.5
+C1051,Customer 1051,Male,46,Kuwait,Kuwait City,9/9/2023 0:00,Corporate,Gold,44,4.4
+C1052,Customer 1052,Female,37,Qatar,Doha,10/28/2024 0:00,Consumer,Platinum,11,3.7
+C1053,Customer 1053,Male,64,Bahrain,Manama,1/7/2022 0:00,Consumer,Silver,44,4.7
+C1054,Customer 1054,Male,29,Qatar,Doha,3/20/2021 0:00,Corporate,Silver,16,3.4
+C1055,Customer 1055,Female,59,Saudi Arabia,Riyadh,1/31/2021 0:00,Corporate,Platinum,10,4.3
+C1056,Customer 1056,Female,34,Kuwait,Kuwait City,10/15/2020 0:00,Consumer,Gold,10,4.4
+C1057,Customer 1057,Female,44,Qatar,Doha,3/2/2023 0:00,SMB,Platinum,47,3
+C1058,Customer 1058,Male,59,Qatar,Doha,3/19/2022 0:00,SMB,Silver,31,4.6
+C1059,Customer 1059,Male,29,Oman,Muscat,3/26/2020 0:00,Corporate,Gold,42,4.2
+C1060,Customer 1060,Female,40,Oman,Muscat,1/4/2021 0:00,SMB,Gold,29,3.4
+C1061,Customer 1061,Male,34,Bahrain,Manama,5/16/2022 0:00,Consumer,Silver,26,3.7
+C1062,Customer 1062,Male,46,Qatar,Doha,10/14/2020 0:00,SMB,Silver,35,3.6
+C1063,Customer 1063,Male,38,Qatar,Doha,1/22/2021 0:00,Consumer,Platinum,49,3.1
+C1064,Customer 1064,Male,46,Saudi Arabia,Dammam,9/16/2022 0:00,Consumer,Platinum,34,3.8
+C1065,Customer 1065,Female,48,Kuwait,Kuwait City,10/11/2022 0:00,SMB,Silver,31,4.6
+C1066,Customer 1066,Female,45,Bahrain,Manama,2/26/2021 0:00,Consumer,Platinum,42,3.3
+C1067,Customer 1067,Female,28,Bahrain,Manama,5/12/2025 0:00,Consumer,Gold,35,4.7
+C1068,Customer 1068,Male,21,Saudi Arabia,Jeddah,1/20/2023 0:00,SMB,Platinum,35,4
+C1069,Customer 1069,Male,24,Kuwait,Kuwait City,2/21/2023 0:00,Consumer,Silver,6,3.7
+C1070,Customer 1070,Male,45,Qatar,Doha,8/4/2020 0:00,Corporate,Platinum,14,4.4
+C1071,Customer 1071,Female,63,Kuwait,Kuwait City,6/5/2025 0:00,SMB,Gold,33,3.6
+C1072,Customer 1072,Female,27,Saudi Arabia,Riyadh,6/13/2024 0:00,Corporate,Platinum,9,4.6
+C1073,Customer 1073,Male,58,UAE,Dubai,2/1/2025 0:00,Consumer,Platinum,4,4.1
+C1074,Customer 1074,Male,60,Bahrain,Manama,1/30/2023 0:00,Corporate,Silver,43,4.5
+C1075,Customer 1075,Female,32,Qatar,Doha,2/7/2023 0:00,SMB,Gold,20,4.7
+C1076,Customer 1076,Male,36,Bahrain,Manama,5/19/2021 0:00,SMB,Gold,30,3.5
+C1077,Customer 1077,Female,25,Oman,Muscat,6/15/2024 0:00,Consumer,Gold,34,4.9
+C1078,Customer 1078,Male,51,UAE,Abu Dhabi,4/7/2024 0:00,Consumer,Silver,19,3.2
+C1079,Customer 1079,Female,40,Kuwait,Kuwait City,7/25/2023 0:00,SMB,Silver,11,4.1
+C1080,Customer 1080,Female,54,Bahrain,Manama,10/17/2025 0:00,Corporate,Silver,38,5
+C1081,Customer 1081,Female,61,UAE,Abu Dhabi,10/26/2022 0:00,Corporate,Silver,28,4.3
+C1082,Customer 1082,Male,48,Bahrain,Manama,7/11/2021 0:00,SMB,Gold,47,4.6
+C1083,Customer 1083,Male,46,Bahrain,Manama,4/4/2024 0:00,Corporate,Gold,17,4.1
+C1084,Customer 1084,Male,29,Saudi Arabia,Riyadh,5/8/2025 0:00,SMB,Silver,8,3
+C1085,Customer 1085,Female,33,Kuwait,Kuwait City,11/21/2021 0:00,SMB,Silver,13,4.7
+C1086,Customer 1086,Male,55,Saudi Arabia,Riyadh,3/24/2020 0:00,SMB,Gold,16,4.4
+C1087,Customer 1087,Male,30,Kuwait,Kuwait City,1/8/2025 0:00,Consumer,Gold,3,4.8
+C1088,Customer 1088,Male,40,UAE,Dubai,4/7/2022 0:00,Consumer,Gold,10,3.2
+C1089,Customer 1089,Female,36,Oman,Muscat,1/9/2023 0:00,Consumer,Platinum,18,3.6
+C1090,Customer 1090,Male,28,Qatar,Doha,8/25/2023 0:00,SMB,Silver,45,5
+C1091,Customer 1091,Female,56,Oman,Muscat,10/6/2020 0:00,Corporate,Gold,8,3.4
+C1092,Customer 1092,Female,23,Kuwait,Kuwait City,6/27/2021 0:00,Consumer,Silver,21,3.4
+C1093,Customer 1093,Male,23,Kuwait,Kuwait City,4/2/2022 0:00,SMB,Platinum,2,3
+C1094,Customer 1094,Male,61,Kuwait,Kuwait City,6/13/2024 0:00,SMB,Silver,22,3.7
+C1095,Customer 1095,Female,62,Bahrain,Manama,4/25/2023 0:00,SMB,Gold,4,3.1
+C1096,Customer 1096,Female,62,Qatar,Doha,1/20/2022 0:00,Consumer,Gold,32,4.2
+C1097,Customer 1097,Male,45,Bahrain,Manama,1/14/2020 0:00,Consumer,Platinum,47,4.2
+C1098,Customer 1098,Female,60,Oman,Muscat,8/10/2025 0:00,SMB,Silver,46,4.5
+C1099,Customer 1099,Male,35,Saudi Arabia,Riyadh,10/9/2024 0:00,Consumer,Gold,16,4.8
+C1100,Customer 1100,Female,22,Bahrain,Manama,6/6/2025 0:00,SMB,Silver,50,3.4
+C1101,Customer 1101,Male,28,Saudi Arabia,Dammam,3/22/2022 0:00,SMB,Silver,45,4.9
+C1102,Customer 1102,Female,57,Kuwait,Kuwait City,3/14/2023 0:00,Consumer,Silver,16,3.7
+C1103,Customer 1103,Male,43,Kuwait,Kuwait City,12/10/2021 0:00,Consumer,Platinum,38,4
+C1104,Customer 1104,Female,30,Qatar,Doha,6/11/2020 0:00,SMB,Gold,11,4.9
+C1105,Customer 1105,Female,47,UAE,Abu Dhabi,12/2/2024 0:00,Consumer,Silver,21,4.7
+C1106,Customer 1106,Female,41,Kuwait,Kuwait City,1/6/2021 0:00,SMB,Gold,4,4.6
+C1107,Customer 1107,Male,31,Saudi Arabia,Jeddah,4/20/2024 0:00,SMB,Platinum,20,4.6
+C1108,Customer 1108,Male,65,Saudi Arabia,Jeddah,12/27/2023 0:00,Consumer,Platinum,8,3.4
+C1109,Customer 1109,Male,31,UAE,Abu Dhabi,8/23/2022 0:00,SMB,Gold,38,3.3
+C1110,Customer 1110,Female,58,Saudi Arabia,Riyadh,11/5/2023 0:00,SMB,Platinum,21,3.7
+C1111,Customer 1111,Male,44,Oman,Muscat,8/21/2022 0:00,Corporate,Platinum,16,3
+C1112,Customer 1112,Female,49,UAE,Dubai,3/9/2022 0:00,SMB,Platinum,39,4.4
+C1113,Customer 1113,Male,19,Saudi Arabia,Riyadh,7/4/2023 0:00,SMB,Silver,10,3.9
+C1114,Customer 1114,Female,57,Bahrain,Manama,6/7/2024 0:00,SMB,Platinum,30,3.7
+C1115,Customer 1115,Male,65,Saudi Arabia,Dammam,5/5/2022 0:00,Corporate,Gold,13,3.3
+C1116,Customer 1116,Female,50,Oman,Muscat,10/4/2024 0:00,SMB,Gold,50,4.5
+C1117,Customer 1117,Female,58,Saudi Arabia,Riyadh,9/2/2024 0:00,Corporate,Silver,43,3.3
+C1118,Customer 1118,Male,59,Qatar,Doha,4/1/2023 0:00,Consumer,Platinum,42,3.6
+C1119,Customer 1119,Female,45,Bahrain,Manama,2/19/2020 0:00,SMB,Gold,25,4.8
+C1120,Customer 1120,Female,23,Oman,Muscat,5/12/2020 0:00,Consumer,Platinum,16,4.2
+C1121,Customer 1121,Female,34,Kuwait,Kuwait City,3/10/2022 0:00,Consumer,Silver,37,4.9
+C1122,Customer 1122,Male,45,Bahrain,Manama,9/2/2020 0:00,Consumer,Platinum,22,4.5
+C1123,Customer 1123,Male,46,Bahrain,Manama,11/30/2025 0:00,Corporate,Gold,46,4.8
+C1124,Customer 1124,Male,45,Qatar,Doha,5/1/2022 0:00,Corporate,Silver,37,4
+C1125,Customer 1125,Female,27,Oman,Muscat,2/12/2022 0:00,Corporate,Silver,39,3.2
+C1126,Customer 1126,Female,51,Oman,Muscat,12/2/2022 0:00,SMB,Silver,24,4.3
+C1127,Customer 1127,Male,55,Saudi Arabia,Dammam,10/28/2021 0:00,Corporate,Platinum,19,3.8
+C1128,Customer 1128,Female,60,Kuwait,Kuwait City,1/6/2022 0:00,Consumer,Silver,35,3.2
+C1129,Customer 1129,Female,40,Kuwait,Kuwait City,5/28/2022 0:00,Consumer,Silver,22,4.3
+C1130,Customer 1130,Male,40,Kuwait,Kuwait City,9/2/2020 0:00,Consumer,Silver,26,4.4
+C1131,Customer 1131,Female,57,Bahrain,Manama,7/8/2025 0:00,Corporate,Gold,39,4.8
+C1132,Customer 1132,Male,47,Bahrain,Manama,2/13/2020 0:00,SMB,Platinum,8,4.8
+C1133,Customer 1133,Female,27,Qatar,Doha,3/11/2025 0:00,Corporate,Gold,19,4.1
+C1134,Customer 1134,Female,30,Oman,Muscat,12/16/2021 0:00,SMB,Silver,47,4.4
+C1135,Customer 1135,Female,41,Oman,Muscat,6/5/2022 0:00,SMB,Silver,47,4.6
+C1136,Customer 1136,Female,23,Qatar,Doha,9/15/2025 0:00,SMB,Gold,3,4.8
+C1137,Customer 1137,Male,60,Saudi Arabia,Jeddah,9/23/2020 0:00,SMB,Silver,28,4.3
+C1138,Customer 1138,Male,23,Oman,Muscat,6/4/2022 0:00,SMB,Gold,42,4.4
+C1139,Customer 1139,Female,32,Bahrain,Manama,3/16/2024 0:00,SMB,Gold,9,4.8
+C1140,Customer 1140,Male,30,Qatar,Doha,12/13/2021 0:00,Consumer,Gold,23,4.5
+C1141,Customer 1141,Female,41,UAE,Abu Dhabi,6/20/2021 0:00,Corporate,Silver,27,4.6
+C1142,Customer 1142,Male,30,Bahrain,Manama,2/17/2022 0:00,Corporate,Platinum,25,4.9
+C1143,Customer 1143,Male,57,Qatar,Doha,12/17/2021 0:00,SMB,Silver,16,3.4
+C1144,Customer 1144,Female,58,Qatar,Doha,1/19/2024 0:00,Consumer,Silver,39,3.7
+C1145,Customer 1145,Male,28,Qatar,Doha,6/21/2020 0:00,SMB,Silver,29,3.5
+C1146,Customer 1146,Male,37,Qatar,Doha,9/17/2024 0:00,SMB,Silver,6,4.3
+C1147,Customer 1147,Female,61,UAE,Abu Dhabi,4/5/2023 0:00,Corporate,Gold,24,4.7
+C1148,Customer 1148,Female,54,Bahrain,Manama,4/15/2020 0:00,Consumer,Gold,41,4.1
+C1149,Customer 1149,Female,48,Saudi Arabia,Dammam,1/18/2020 0:00,Consumer,Silver,20,4.1
+C1150,Customer 1150,Female,46,Qatar,Doha,2/14/2025 0:00,Consumer,Silver,16,4.3
+C1151,Customer 1151,Female,28,UAE,Abu Dhabi,2/14/2025 0:00,Corporate,Platinum,24,3.1
+C1152,Customer 1152,Female,44,Kuwait,Kuwait City,7/19/2021 0:00,Consumer,Gold,2,3.1
+C1153,Customer 1153,Female,48,Bahrain,Manama,9/28/2022 0:00,Corporate,Gold,10,4.4
+C1154,Customer 1154,Male,20,Qatar,Doha,9/16/2021 0:00,Consumer,Gold,37,4.2
+C1155,Customer 1155,Male,55,Qatar,Doha,3/10/2023 0:00,Consumer,Gold,19,4.5
+C1156,Customer 1156,Male,19,Qatar,Doha,3/22/2020 0:00,SMB,Gold,44,3.2
+C1157,Customer 1157,Female,54,Oman,Muscat,11/29/2020 0:00,SMB,Gold,50,4.3
+C1158,Customer 1158,Female,30,Bahrain,Manama,7/26/2023 0:00,Consumer,Silver,27,3.9
+C1159,Customer 1159,Male,51,Bahrain,Manama,1/29/2021 0:00,Corporate,Silver,11,3.5
+C1160,Customer 1160,Male,62,Kuwait,Kuwait City,1/11/2021 0:00,Consumer,Gold,36,4.2
+C1161,Customer 1161,Female,58,Saudi Arabia,Jeddah,11/27/2024 0:00,Corporate,Gold,36,3.1
+C1162,Customer 1162,Male,27,Bahrain,Manama,10/7/2021 0:00,Corporate,Gold,15,4.5
+C1163,Customer 1163,Male,53,Oman,Muscat,6/27/2025 0:00,Corporate,Silver,20,3.4
+C1164,Customer 1164,Male,30,Qatar,Doha,3/3/2023 0:00,SMB,Gold,26,3
+C1165,Customer 1165,Male,46,Bahrain,Manama,1/5/2024 0:00,Corporate,Gold,35,4.3
+C1166,Customer 1166,Female,24,Saudi Arabia,Jeddah,4/26/2020 0:00,Consumer,Platinum,48,3.3
+C1167,Customer 1167,Male,32,UAE,Dubai,2/25/2023 0:00,Consumer,Platinum,2,4
+C1168,Customer 1168,Female,49,Saudi Arabia,Dammam,11/10/2023 0:00,SMB,Gold,12,4
+C1169,Customer 1169,Male,25,UAE,Abu Dhabi,6/8/2020 0:00,SMB,Gold,21,4.7
+C1170,Customer 1170,Female,27,Saudi Arabia,Jeddah,6/14/2021 0:00,Consumer,Gold,20,3.6
+C1171,Customer 1171,Female,57,Bahrain,Manama,11/11/2023 0:00,Corporate,Platinum,19,3.2
+C1172,Customer 1172,Female,37,Bahrain,Manama,1/5/2022 0:00,SMB,Silver,22,4.3
+C1173,Customer 1173,Male,44,Oman,Muscat,10/18/2023 0:00,Corporate,Platinum,11,3
+C1174,Customer 1174,Male,26,Bahrain,Manama,4/16/2021 0:00,Corporate,Gold,23,3.1
+C1175,Customer 1175,Female,62,Oman,Muscat,6/20/2023 0:00,Consumer,Gold,23,3.5
+C1176,Customer 1176,Female,50,Qatar,Doha,12/9/2023 0:00,Consumer,Gold,4,3.9
+C1177,Customer 1177,Male,51,Saudi Arabia,Jeddah,8/16/2024 0:00,Corporate,Silver,8,3.6
+C1178,Customer 1178,Female,38,UAE,Dubai,4/18/2024 0:00,Consumer,Platinum,48,5
+C1179,Customer 1179,Female,20,UAE,Dubai,8/26/2024 0:00,Corporate,Platinum,5,4
+C1180,Customer 1180,Male,55,Bahrain,Manama,10/4/2023 0:00,Corporate,Gold,15,3.7
+C1181,Customer 1181,Female,60,Saudi Arabia,Dammam,12/22/2021 0:00,Corporate,Gold,25,3.1
+C1182,Customer 1182,Male,19,Saudi Arabia,Riyadh,9/30/2020 0:00,Consumer,Silver,44,4.8
+C1183,Customer 1183,Female,44,UAE,Dubai,3/17/2025 0:00,SMB,Gold,33,4.7
+C1184,Customer 1184,Female,59,UAE,Dubai,4/27/2022 0:00,Corporate,Silver,11,4.5
+C1185,Customer 1185,Male,39,Oman,Muscat,6/25/2023 0:00,Consumer,Gold,38,3.9
+C1186,Customer 1186,Male,65,Oman,Muscat,12/12/2025 0:00,SMB,Silver,48,3.1
+C1187,Customer 1187,Male,44,Kuwait,Kuwait City,9/2/2023 0:00,Consumer,Silver,26,3.5
+C1188,Customer 1188,Female,45,UAE,Abu Dhabi,7/28/2023 0:00,Corporate,Silver,18,4.1
+C1189,Customer 1189,Male,23,Qatar,Doha,6/21/2023 0:00,Corporate,Gold,11,3.8
+C1190,Customer 1190,Female,52,Kuwait,Kuwait City,10/1/2023 0:00,SMB,Platinum,14,4.5
+C1191,Customer 1191,Male,29,Oman,Muscat,1/25/2022 0:00,SMB,Platinum,27,4.7
+C1192,Customer 1192,Male,63,Kuwait,Kuwait City,5/2/2021 0:00,Consumer,Gold,39,4.1
+C1193,Customer 1193,Female,48,Oman,Muscat,12/20/2025 0:00,Corporate,Gold,24,3.9
+C1194,Customer 1194,Male,39,Saudi Arabia,Riyadh,9/8/2023 0:00,SMB,Silver,21,4.4
+C1195,Customer 1195,Female,35,Oman,Muscat,5/17/2021 0:00,SMB,Platinum,34,4.5
+C1196,Customer 1196,Female,53,Kuwait,Kuwait City,4/19/2022 0:00,Consumer,Silver,13,3.9
+C1197,Customer 1197,Female,48,Kuwait,Kuwait City,2/28/2024 0:00,Corporate,Silver,26,3.4
+C1198,Customer 1198,Male,18,Bahrain,Manama,5/13/2025 0:00,Corporate,Platinum,22,4.6
+C1199,Customer 1199,Female,48,Oman,Muscat,8/8/2025 0:00,Consumer,Platinum,48,3.6
+C1200,Customer 1200,Female,65,Saudi Arabia,Dammam,11/26/2023 0:00,Corporate,Platinum,40,3.8
